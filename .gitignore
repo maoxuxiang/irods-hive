@@ -1,0 +1,23 @@
+*.class
+
+# Package Files #
+*.war
+*.ear
+
+
+*.log
+
+
+**/target/**
+**/dist/**
+**/bin/**
+**/classes/**
+
+.classpath
+.project
+.settings/
+
+testing.properties
+HiveIndexerVersion.java
+
+.DS_Store

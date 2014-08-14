@@ -1,0 +1,7 @@
+http://centos6.irods.renci.org:8080/hive-query-rest-1.0-SNAPSHOT/preparedQuery/allForVocabularyTerm?vocabUri=http://www.fao.org/aos/agrovoc&termId=c_28638
+or
+http://localhost:8080/hive-query-rest/preparedQuery/allForVocabularyTerm?vocabUri=http://www.fao.org/aos/agrovoc&termId=c_28638
+
+
+
+http://localhost:8080/hive-query-rest/preparedQuery/allForRelatedVocabularyTerm?vocabUri=http://www.fao.org/aos/agrovoc&termId=c_28638

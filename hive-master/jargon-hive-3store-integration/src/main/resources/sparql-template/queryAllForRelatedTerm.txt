@@ -1,0 +1,11 @@
+PREFIX irods:       <http://www.irods.org/ontologies/2013/2/iRODS.owl#> 
+PREFIX skos:    <http://www.w3.org/2004/02/skos/core#>
+SELECT ?x ?y ?absPath ?weblink ?infoLink
+WHERE { 
+
+?x  irods:correspondingConcept ?y .
+?y skos:related <${term}> .
+?x irods:absolutePath ?absPath .
+?x irods:hasWebInformationLink ?infoLink .
+OPTIONAL { ?x irods:hasDownloadLocation ?weblink }
+}

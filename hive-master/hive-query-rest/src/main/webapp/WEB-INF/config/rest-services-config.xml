@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oxm="http://www.springframework.org/schema/oxm"
+	xmlns:util="http://www.springframework.org/schema/util" xmlns:mvc="http://www.springframework.org/schema/mvc"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd  
+                                    http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-3.0.xsd  
+                                    http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd  
+                                    http://www.springframework.org/schema/oxm  
+                                    http://www.springframework.org/schema/oxm/spring-oxm-3.0.xsd  
+                                    http://www.springframework.org/schema/util  
+                                     http://www.springframework.org/schema/util/spring-util-3.0.xsd">
+	<!-- Enables automatic mapping of fund objects to and from JSON -->
+	<mvc:annotation-driven />
+	<!-- Setup spring to pull in @Controller, @RequestMapping, etc Configuration 
+		scans specified packages for classes configured as Spring managed beans and 
+		automatically sets up objects annotated with @Controller, @Service etc. -->
+	<context:component-scan base-package="org.irods.jargon.hive.query.rest">
+	</context:component-scan>
+	<!-- Turn on AspectJ @Configurable support. As a result, any time you instantiate 
+		an object, Spring will attempt to perform dependency injection on that object. 
+		This occurs for instantiation via the "new" keyword, as well as via reflection. 
+		This is possible because AspectJ is used to "weave" Roo-based applications 
+		at compile time. In effect this feature allows dependency injection of any 
+		object at all in your system, which is a very useful feature (without @Configurable 
+		you'd only be able to dependency inject objects acquired from Spring or subsequently 
+		presented to a specific Spring dependency injection method). Roo applications 
+		use this useful feature in a number of areas, such as @PersistenceContext 
+		injection into entities. -->
+	<context:spring-configured />
+	<bean
+		class="org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping" />
+	<!-- Configures view for returning JSON to the client -->
+	<bean
+		class="org.springframework.web.servlet.view.json.MappingJacksonJsonView">
+		<property name="contentType" value="text/plain" />
+	</bean>
+	<!-- maps handler methods based on HTTP paths -->
+	<bean
+		class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter">
+		<property name="messageConverters">
+			<util:list id="beanList">
+			<!-- <ref bean="jsonMessageConverter" />  -->	
+			</util:list>
+		</property>
+	</bean>
+
+	<!-- Converts JSON to POJO and vice versa -->
+	<bean id="jenaHiveConfiguration"
+		class="org.irods.jargon.hive.external.utils.JenaHiveConfiguration">
+		<property name="idropContext" value="http://centos6.irods.renci.org:8080/idrop-web2" />
+		<property name="jenaDbDriverClass" value="org.apache.derby.jdbc.EmbeddedDriver" />
+		<property name="jenaDbUser" value="test" />
+		<property name="jenaDbPassword" value="test" />
+		<property name="jenaDbType" value="Derby" />
+		<property name="jenaDbUri"
+			value="jdbc:derby:/var/hive/derby;create=false" />
+	</bean>
+	
+	
+	<!-- 
+	<bean id="jenaHiveConfiguration"
+		class="org.irods.jargon.hive.external.utils.JenaHiveConfiguration">
+		<property name="idropContext" value="http://localhost:8080/idrop-web2" />
+		<property name="jenaDbDriverClass" value="org.apache.derby.jdbc.EmbeddedDriver" />
+		<property name="jenaDbUser" value="test" />
+		<property name="jenaDbPassword" value="test" />
+		<property name="jenaDbType" value="Derby" />
+		<property name="jenaDbUri"
+			value="jdbc:derby:/users/mikeconway/temp/hivetest/derby;create=false" />
+	</bean>
+	
+	<bean id="jenaHiveConfiguration"
+		class="org.irods.jargon.hive.external.utils.JenaHiveConfiguration">
+		<property name="idropContext" value="http://localhost:8080/idrop-web2" />
+		<property name="jenaDbDriverClass" value="org.apache.derby.jdbc.EmbeddedDriver" />
+		<property name="jenaDbUser" value="test" />
+		<property name="jenaDbPassword" value="test" />
+		<property name="jenaDbType" value="Derby" />
+		<property name="jenaDbUri"
+			value="jdbc:derby:C:/temp/hivetest/derby;create=false" />
+		</bean>
+			
+			<bean id="jenaHiveConfiguration"
+		class="org.irods.jargon.hive.external.utils.JenaHiveConfiguration">
+		<property name="idropContext" value="http://centos6.irods.renci.org:8080/idrop-web2" />
+		<property name="jenaDbDriverClass" value="org.apache.derby.jdbc.EmbeddedDriver" />
+		<property name="jenaDbUser" value="test" />
+		<property name="jenaDbPassword" value="test" />
+		<property name="jenaDbType" value="Derby" />
+		<property name="jenaDbUri"
+			value="jdbc:derby:/var/hive/derby;create=false" />
+	</bean>
+	
+	 -->
+
+	
+	<bean id="jargonHiveQueryService"
+		class="org.irods.jargon.hive.external.query.JargonHiveQueryServiceImpl">
+		<constructor-arg name="jenaHiveConfiguration" ref="jenaHiveConfiguration" />
+	</bean>
+	
+	<bean id="jargonHiveSparqlService"
+		class="org.irods.jargon.hive.external.sparql.JenaHiveSPARQLServiceImpl" init-method="init">
+		<constructor-arg name="jenaHiveConfiguration" ref="jenaHiveConfiguration" />
+	</bean>
+
+</beans>  

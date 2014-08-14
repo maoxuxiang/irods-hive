@@ -1,0 +1,287 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.irods.org/ontologies/2013/2/iRODS.owl#"
+     xml:base="http://www.irods.org/ontologies/2013/2/iRODS.owl"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <owl:Ontology rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl">
+        <rdfs:comment>Representation of the iRODS iCAT catalog</rdfs:comment>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Datatypes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.irods.org/ontologies/2013/2/iRODS.owl#correspondingConcept -->
+
+    <owl:ObjectProperty rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#correspondingConcept">
+        <rdf:type rdf:resource="&owl;TransitiveProperty"/>
+        <rdfs:comment>corresponding SKOS concept</rdfs:comment>
+        <rdfs:domain rdf:resource="http://www.irods.org/ontologies/2013/2/iRODS.owl#IrodsDomainThing"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.irods.org/ontologies/2013/2/iRODS.owl#hasChild -->
+
+    <owl:ObjectProperty rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#hasChild">
+        <rdf:type rdf:resource="&owl;FunctionalProperty"/>
+        <rdf:type rdf:resource="&owl;InverseFunctionalProperty"/>
+        <rdf:type rdf:resource="&owl;TransitiveProperty"/>
+        <rdfs:domain rdf:resource="http://www.irods.org/ontologies/2013/2/iRODS.owl#Collection"/>
+        <owl:inverseOf rdf:resource="http://www.irods.org/ontologies/2013/2/iRODS.owl#hasParent"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.irods.org/ontologies/2013/2/iRODS.owl#hasParent -->
+
+    <owl:ObjectProperty rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#hasParent">
+        <rdfs:domain rdf:resource="http://www.irods.org/ontologies/2013/2/iRODS.owl#IrodsFileSystem"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.irods.org/ontologies/2013/2/iRODS.owl#absolutePath -->
+
+    <owl:DatatypeProperty rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#absolutePath">
+        <rdfs:comment>absolute logical path</rdfs:comment>
+        <rdfs:domain rdf:resource="http://www.irods.org/ontologies/2013/2/iRODS.owl#IrodsFileSystem"/>
+        <rdfs:range rdf:resource="&xsd;string"/>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.irods.org/ontologies/2013/2/iRODS.owl#absolutePath"/>
+                <owl:qualifiedCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="&xsd;string"/>
+            </owl:Restriction>
+        </rdfs:domain>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.irods.org/ontologies/2013/2/iRODS.owl#createDate -->
+
+    <owl:DatatypeProperty rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#createDate">
+        <rdfs:domain rdf:resource="http://www.irods.org/ontologies/2013/2/iRODS.owl#IrodsDomainThing"/>
+        <rdfs:range rdf:resource="&xsd;dateTimeStamp"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.irods.org/ontologies/2013/2/iRODS.owl#hasDownloadLocation -->
+
+    <owl:DatatypeProperty rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#hasDownloadLocation">
+        <rdfs:comment>indicates a location (URL) from which the given data can be downloaded</rdfs:comment>
+        <rdfs:domain rdf:resource="http://www.irods.org/ontologies/2013/2/iRODS.owl#DataObject"/>
+        <rdfs:range rdf:resource="&xsd;anyURI"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.irods.org/ontologies/2013/2/iRODS.owl#hasSizeInBytes -->
+
+    <owl:DatatypeProperty rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#hasSizeInBytes">
+        <rdfs:domain rdf:resource="http://www.irods.org/ontologies/2013/2/iRODS.owl#DataObject"/>
+        <rdfs:range rdf:resource="&xsd;long"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.irods.org/ontologies/2013/2/iRODS.owl#hasWebInformationLink -->
+
+    <owl:DatatypeProperty rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#hasWebInformationLink">
+        <rdfs:comment>Represents a link to the system data via iDrop or other viewer, as opposed to a plain download link, this represents a human interface view in a browser</rdfs:comment>
+        <rdfs:domain rdf:resource="http://www.irods.org/ontologies/2013/2/iRODS.owl#IrodsFileSystem"/>
+        <rdfs:range rdf:resource="&xsd;anyURI"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.irods.org/ontologies/2013/2/iRODS.owl#irodsURI -->
+
+    <owl:DatatypeProperty rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#irodsURI">
+        <rdfs:comment>iRODS URI format (irods://)</rdfs:comment>
+        <rdfs:domain rdf:resource="http://www.irods.org/ontologies/2013/2/iRODS.owl#IrodsFileSystem"/>
+        <rdfs:range rdf:resource="&xsd;anyURI"/>
+        <rdfs:subPropertyOf rdf:resource="&owl;topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.irods.org/ontologies/2013/2/iRODS.owl#modifyDate -->
+
+    <owl:DatatypeProperty rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#modifyDate">
+        <rdfs:domain rdf:resource="http://www.irods.org/ontologies/2013/2/iRODS.owl#IrodsDomainThing"/>
+        <rdfs:range rdf:resource="&xsd;dateTimeStamp"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.irods.org/ontologies/2013/2/iRODS.owl#AVU -->
+
+    <owl:Class rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#AVU">
+        <rdfs:subClassOf rdf:resource="http://www.irods.org/ontologies/2013/2/iRODS.owl#UserSuppliedMetadata"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.irods.org/ontologies/2013/2/iRODS.owl#Collection -->
+
+    <owl:Class rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#Collection">
+        <rdfs:subClassOf rdf:resource="http://www.irods.org/ontologies/2013/2/iRODS.owl#IrodsFileSystem"/>
+        <owl:disjointWith rdf:resource="http://www.irods.org/ontologies/2013/2/iRODS.owl#DataObject"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.irods.org/ontologies/2013/2/iRODS.owl#DataObject -->
+
+    <owl:Class rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#DataObject">
+        <rdfs:subClassOf rdf:resource="http://www.irods.org/ontologies/2013/2/iRODS.owl#IrodsFileSystem"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.irods.org/ontologies/2013/2/iRODS.owl#IrodsDomainThing -->
+
+    <owl:Class rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#IrodsDomainThing">
+        <owl:disjointWith rdf:resource="http://www.irods.org/ontologies/2013/2/iRODS.owl#UserSuppliedMetadata"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.irods.org/ontologies/2013/2/iRODS.owl#IrodsFileSystem -->
+
+    <owl:Class rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#IrodsFileSystem">
+        <rdfs:subClassOf rdf:resource="http://www.irods.org/ontologies/2013/2/iRODS.owl#IrodsDomainThing"/>
+        <rdfs:comment>A file catalog entry in iRODS, logical namespace describing a hierarchical arrangement of collections and files</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.irods.org/ontologies/2013/2/iRODS.owl#Resource -->
+
+    <owl:Class rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#Resource">
+        <rdfs:subClassOf rdf:resource="http://www.irods.org/ontologies/2013/2/iRODS.owl#IrodsDomainThing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.irods.org/ontologies/2013/2/iRODS.owl#User -->
+
+    <owl:Class rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#User">
+        <rdfs:subClassOf rdf:resource="http://www.irods.org/ontologies/2013/2/iRODS.owl#IrodsDomainThing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.irods.org/ontologies/2013/2/iRODS.owl#UserSuppliedMetadata -->
+
+    <owl:Class rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#UserSuppliedMetadata"/>
+    
+
+
+    <!-- http://www.irods.org/ontologies/2013/2/iRODS.owl#Zone -->
+
+    <owl:Class rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#Zone">
+        <rdfs:subClassOf rdf:resource="http://www.irods.org/ontologies/2013/2/iRODS.owl#IrodsDomainThing"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="&owl;AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#Collection"/>
+            <rdf:Description rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#Resource"/>
+            <rdf:Description rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#User"/>
+            <rdf:Description rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#Zone"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="&owl;AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#IrodsFileSystem"/>
+            <rdf:Description rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#Resource"/>
+            <rdf:Description rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#User"/>
+            <rdf:Description rdf:about="http://www.irods.org/ontologies/2013/2/iRODS.owl#Zone"/>
+        </owl:members>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.2.3.1824) http://owlapi.sourceforge.net -->
+

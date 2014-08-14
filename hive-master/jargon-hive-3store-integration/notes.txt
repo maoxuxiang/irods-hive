@@ -1,0 +1,34 @@
+http://www.fao.org/aos/agrovoc#c_28638
+
+
+<http://www.fao.org/aos/agrovoc#c_1669>
+      a       skos:Concept ;
+      skos:narrower <http://www.fao.org/aos/agrovoc#c_7979> , <http://www.fao.org/aos/agrovoc#c_1745> , <http://www.fao.org/aos/agrovoc#c_7656> , <http://www.fao.org/aos/agrovoc#c_3688> , <http://www.fao.org/aos/agrovoc#c_6963> , <http://www.fao.org/aos/agrovoc#c_14658> , <http://www.fao.org/aos/agrovoc#c_16099> , <http://www.fao.org/aos/agrovoc#c_29563> , <http://www.fao.org/aos/agrovoc#c_613> ;
+      skos:prefLabel "Climatic zones"@en ;
+      skos:related <http://www.fao.org/aos/agrovoc#c_7213> , <http://www.fao.org/aos/agrovoc#c_28638> , <http://www.fao.org/aos/agrovoc#c_29554> ;
+      skos:scopeNote "Use for areas having identical climates; for the physical phenomenon use Climate (1665)"@en .
+
+PREFIX irods:       <http://www.irods.org/ontologies/2013/2/iRODS.owl#> 
+PREFIX skos:    <http://www.w3.org/2004/02/skos/core#>
+SELECT ?x ?y ?weblink ?infoLink
+WHERE { 
+
+?x  irods:correspondingConcept ?y .
+?y skos:related <http://www.fao.org/aos/agrovoc#c_28638> .
+?x irods:hasDownloadLocation ?weblink .
+?x irods:hasWebInformationLink ?infoLink
+}
+
+
+{
+  "head": {
+    "vars": [ "x" , "y" , "weblink" , "infoLink" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "x": { "type": "uri" , "value": "irods://localhost:1247/test1/home/test1/jargon-scratch/JenaHiveSPARQLServiceImplTest/testExecuteOnt/subdirectory0/hivefile0" } ,
+        "y": { "type": "uri" , "value": "http://www.fao.org/aos/agrovoc#c_1669" } ,
+        "weblink": { "type": "uri" , "value": "http://localhost:8080/idrop-web2/file/download/test1/home/test1/jargon-scratch/JenaHiveSPARQLServiceImplTest/testExecuteOnt/subdirectory0/hivefile0" } ,
+        "infoLink": { "type": "uri" , "value": "http://localhost:8080/idrop-web2/home/link?irodsURI=irods://localhost:1247/test1/home/test1/jargon-scratch/JenaHiveSPARQLServiceImplTest/testExecuteOnt/subdirectory0/hivefile0" }
+      } ,

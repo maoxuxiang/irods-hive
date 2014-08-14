@@ -1,0 +1,13 @@
+Elmo user guide http://www.openrdf.org/doc/elmo/1.5/user-guide.html
+Maui framework on google code: https://code.google.com/p/maui-indexer/
+perf4j notes - http://perf4j.codehaus.org/
+
+
+
+libraries not on maven
+
+maui
+
+mvn install:install-file -Dfile=../hive-code/hive-core/lib/maui12.jar -DgroupId=maui -DartifactId=maui -Dversion=1.2 -Dpackaging=jar
+
+mvn install:install-file -Dfile=../hive-code/hive-core/lib/wikipedia-miner-1.2.0.jar -DgroupId=wikipedia -DartifactId=wikipedia-miner -Dversion=1.2.0 -Dpackaging=jar

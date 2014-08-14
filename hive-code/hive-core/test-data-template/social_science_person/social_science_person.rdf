@@ -1,0 +1,2747 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Acheson%2C%20Dean">
+<skos:prefLabel>Acheson&#44; Dean</skos:prefLabel>
+<skos:DSC>US lawyer and stateman&#59; Secretary of State&#13;&#10;1949-1953.</skos:DSC>
+<skos:DT>1893-1971</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Adams%2C%20John">
+<skos:prefLabel>Adams&#44; John</skos:prefLabel>
+<skos:DSC>2nd President of the United States&#44; 1796-1800.</skos:DSC>
+<skos:DT>1735-1826</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-23</skos:INP>
+<skos:APP>2009-02-23</skos:APP>
+<skos:UPD>2009-02-23</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Adams%2C%20John%20Quincy">
+<skos:prefLabel>Adams&#44; John Quincy</skos:prefLabel>
+<skos:DSC>6th President of the United States&#44; 1825-1829.</skos:DSC>
+<skos:DT>1767-1848</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-23</skos:INP>
+<skos:APP>2009-02-23</skos:APP>
+<skos:UPD>2009-02-23</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Akin%2C%20Todd">
+<skos:prefLabel>Akin&#44; Todd</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; US Representative for Missouri 2001-2013&#59; ran and lost US Senate race 2012&#59; created controversy with comment about &#34;legitimate rape&#34;.</skos:DSC>
+<skos:DT>b.1947 -</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2013-07-15</skos:INP>
+<skos:APP>2013-07-15</skos:APP>
+<skos:UPD>2013-07-15</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Albright%2C%20Madeleine">
+<skos:prefLabel>Albright&#44; Madeleine</skos:prefLabel>
+<skos:DSC>US diplomat&#59; Secretary of United States Department&#13;&#10;of State 1997-2001.</skos:DSC>
+<skos:DT>b.1937-</skos:DT>
+<skos:NV>Madeleine Korbel Albright</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2007-07-10</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Alexander%2C%20Lamar">
+<skos:prefLabel>Alexander&#44; Lamar</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; Governor of Tennessee&#13;&#10;1979-1987&amp;&#35;59&#59; candidate for Republican presidential&#13;&#10;nomination 1996&amp;&#35;44&#59; 2000.</skos:DSC>
+<skos:DT>b.1940-</skos:DT>
+<skos:NV>Lamar Andrew Alexander</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Alito%2C%20Samuel">
+<skos:prefLabel>Alito&#44; Samuel</skos:prefLabel>
+<skos:DSC>American Supreme Court Justice 2006- .</skos:DSC>
+<skos:NV>Samuel A. Alito&#44; Jr.</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-01-03</skos:INP>
+<skos:APP>2008-01-03</skos:APP>
+<skos:UPD>2008-01-03</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Allen%2C%20George">
+<skos:prefLabel>Allen&#44; George</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; governor of Virginia 1994-1998&#59; United States senator from Virginia 2000- .</skos:DSC>
+<skos:DT>b.1952-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-11-06</skos:INP>
+<skos:APP>2006-11-06</skos:APP>
+<skos:UPD>2006-11-06</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Anderson%2C%20John">
+<skos:prefLabel>Anderson&#44; John</skos:prefLabel>
+<skos:DSC>US politician&#59; Independent presidential candidate&#13;&#10;1980.</skos:DSC>
+<skos:DT>b. 1922-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Annan%2C%20Kofi">
+<skos:prefLabel>Annan&#44; Kofi</skos:prefLabel>
+<skos:DSC>Ghanian diplomat&#59; Secretary-General of the United&#13;&#10;Nations 1997- .</skos:DSC>
+<skos:DT>b.1938-</skos:DT>
+<skos:NV>Kofi Atta Annan</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Arafat%2C%20Yasir">
+<skos:prefLabel>Arafat&#44; Yasir</skos:prefLabel>
+<skos:DSC>Leader of the Palestinian Liberation Organization&#13;&#10;&amp;&#35;40&#59;PLO&amp;&#35;41&#59; 1968-2004 &amp;&#35;59&#59; Palestinian politician&amp;&#35;59&#59; Nobel Peace&#13;&#10;prize 1994.</skos:DSC>
+<skos:DT>1929-2004</skos:DT>
+<skos:NV>Yasser Arafat&#59; Yassir Arafat.</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2009-09-30</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Aristide%2C%20Jean-Bertrand">
+<skos:prefLabel>Aristide&#44; Jean-Bertrand</skos:prefLabel>
+<skos:DSC>Haitian clergyman and politician&#59; President of&#13;&#10;Haiti 1991&amp;&#35;44&#59; 1994-1996&amp;&#35;59&#59; overthrown in 1991 but&#13;&#10;restored through US intervention 1994&amp;&#35;59&#59;&#13;&#10;President-elect of Haiti&amp;&#35;44&#59; 2000.</skos:DSC>
+<skos:DT>b.1953-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Arthur%2C%20Chester">
+<skos:prefLabel>Arthur&#44; Chester</skos:prefLabel>
+<skos:DSC>21st President of the United States&#44; 1881-1885.</skos:DSC>
+<skos:DT>1829-1886</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-26</skos:INP>
+<skos:APP>2009-02-26</skos:APP>
+<skos:UPD>2009-02-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Ashcroft%2C%20John">
+<skos:prefLabel>Ashcroft&#44; John</skos:prefLabel>
+<skos:DSC>U.S. Republican politician.  Governor of Missouri&#13;&#10;1985-1992&amp;&#35;59&#59; Senator from Missouri 1995-2001&amp;&#35;59&#59; United&#13;&#10;States Attorney General 2001- .</skos:DSC>
+<skos:DT>b.1942-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Bachmann%2C%20Michele">
+<skos:prefLabel>Bachmann&#44; Michele</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; United States Representative from Minnesota &#40;2007- &#41;&#59; unsuccessful candidate for Republican nomination in the 2012 presidential election.</skos:DSC>
+<skos:DT>b.1956-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2012-05-31</skos:INP>
+<skos:APP>2012-05-31</skos:APP>
+<skos:UPD>2012-05-31</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Baker%2C%20Howard">
+<skos:prefLabel>Baker&#44; Howard</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; Senator from Tennessee&#13;&#10;1967-1985&amp;&#35;59&#59; White House Chief of Staff 1987-1988&amp;&#35;59&#59;&#13;&#10;nominated as US Ambassador to Japan 2001.</skos:DSC>
+<skos:DT>b.1925-</skos:DT>
+<skos:NV>Howard Henry Baker Jr.</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Baker%2C%20James">
+<skos:prefLabel>Baker&#44; James</skos:prefLabel>
+<skos:DSC>US Republican poitician&#59; White House Chief of&#13;&#10;Staff 1981-1985&amp;&#35;44&#59; 1992-1993&amp;&#35;59&#59; Secretary of the&#13;&#10;Treasury 1985-1988&amp;&#35;59&#59; Secretary of State 1989-1992&amp;&#35;59&#59;&#13;&#10;George W. Bush&amp;&#35;39&#59;s personal representative in&#13;&#10;Florida presidential election controversy&amp;&#35;44&#59; 2000.</skos:DSC>
+<skos:DT>b.1930-</skos:DT>
+<skos:NV>Jim Baker&#44; James Baker III</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Barry%2C%20Marion">
+<skos:prefLabel>Barry&#44; Marion</skos:prefLabel>
+<skos:DSC>US Democratic politician&#59; Mayor of Washington DC&#13;&#10;1979-1991&amp;&#35;44&#59; 1995-1999&amp;&#35;59&#59; ousted from office&amp;&#35;44&#59;&#13;&#10;convicted and imprisoned on drug charges&#13;&#10;1991-1992.</skos:DSC>
+<skos:DT>b.1936-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Begin%2C%20Menachem">
+<skos:prefLabel>Begin&#44; Menachem</skos:prefLabel>
+<skos:DSC>Israeli politician&#59; Prime Minister of Israel&#13;&#10;1977-1983.</skos:DSC>
+<skos:DT>1913-1992</skos:DT>
+<skos:NV>Menahem Begin</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2008-08-22</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Bentsen%2C%20Lloyd">
+<skos:prefLabel>Bentsen&#44; Lloyd</skos:prefLabel>
+<skos:DSC>United States Senator from Texas 1971-1992&#59;&#13;&#10;Democratic Vice-Presidential candidate 1988.</skos:DSC>
+<skos:DT>b.1921-</skos:DT>
+<skos:NV>Lloyd Millard Bentsen&#44; Jr.</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Biden%2C%20Joe">
+<skos:prefLabel>Biden&#44; Joe</skos:prefLabel>
+<skos:DSC>United States Senator from Delaware 1972-2008&#59; Vice President of the United States 2009- .</skos:DSC>
+<skos:DT>b.1942-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-01-19</skos:INP>
+<skos:APP>2009-01-19</skos:APP>
+<skos:UPD>2009-01-19</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#bin%20Laden%2C%20Osama">
+<skos:prefLabel>bin Laden&#44; Osama</skos:prefLabel>
+<skos:DSC>Saudi-born leader of fundamentalist Muslim&#13;&#10;terrorist organization&amp;&#35;44&#59; Al Qaeda.</skos:DSC>
+<skos:DT>1957-2011</skos:DT>
+<skos:NV>Usama bin Laden</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2011-11-29</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Black%2C%20Hugo">
+<skos:prefLabel>Black&#44; Hugo</skos:prefLabel>
+<skos:DSC>US jurist&#59; United States Supreme Court Justice&#13;&#10;1937-1971.</skos:DSC>
+<skos:DT>1886-1971</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Blackmun%2C%20Harry">
+<skos:prefLabel>Blackmun&#44; Harry</skos:prefLabel>
+<skos:DSC>US jurist&#59; United States Supreme Court Justice&#13;&#10;1970-1994&amp;&#35;59&#59; wrote decision for Roe v Wade&amp;&#35;44&#59; 1973.</skos:DSC>
+<skos:DT>1908-1999</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Blair%2C%20Tony">
+<skos:prefLabel>Blair&#44; Tony</skos:prefLabel>
+<skos:DSC>British Labour politician&#59; British Prime Minister&#13;&#10;1997-2007.</skos:DSC>
+<skos:DT>b.1953-</skos:DT>
+<skos:NV>Anthony Charles Lynton Blair</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2009-09-30</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Bloomberg%2C%20Michael">
+<skos:prefLabel>Bloomberg&#44; Michael</skos:prefLabel>
+<skos:DSC>American businessman and politician&#59; Mayor of New&#13;&#10;York City 2001 - .</skos:DSC>
+<skos:DT>b.1923 -</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Boehner%2C%20John">
+<skos:prefLabel>Boehner&#44; John</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; United States Representative from Ohio&#44; 1991-  .</skos:DSC>
+<skos:DT>b.1949-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2012-12-03</skos:INP>
+<skos:APP>2012-12-03</skos:APP>
+<skos:UPD>2012-12-03</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Bonds%2C%20Barry">
+<skos:prefLabel>Bonds&#44; Barry</skos:prefLabel>
+<skos:DSC>American professional baseball player.</skos:DSC>
+<skos:DT>b.1954-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-04-11</skos:INP>
+<skos:APP>2008-04-11</skos:APP>
+<skos:UPD>2008-04-11</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Bongo%2C%20Omar">
+<skos:prefLabel>Bongo&#44; Omar</skos:prefLabel>
+<skos:DSC>President of Gabon&#44; 1967-2009.</skos:DSC>
+<skos:DT>1936-2009</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-06-09</skos:INP>
+<skos:APP>2009-06-09</skos:APP>
+<skos:UPD>2009-06-09</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Boni%2C%20Thomas%20Yayi">
+<skos:prefLabel>Boni&#44; Thomas Yayi</skos:prefLabel>
+<skos:DSC>President of Benin&#44; 2006- .</skos:DSC>
+<skos:DT>b.1952-</skos:DT>
+<skos:NV>Yayi Boni</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-03-27</skos:INP>
+<skos:APP>2009-03-27</skos:APP>
+<skos:UPD>2009-03-27</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Bork%2C%20Robert">
+<skos:prefLabel>Bork&#44; Robert</skos:prefLabel>
+<skos:DSC>US judge and lawyer&#59; unsuccessful nominee to&#13;&#10;United States Supreme Court 1987.</skos:DSC>
+<skos:DT>b.1927-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Bradley%2C%20Bill">
+<skos:prefLabel>Bradley&#44; Bill</skos:prefLabel>
+<skos:DSC>US Democratic politician&#59; Senator from New Jersey&#13;&#10;1979-1997&amp;&#35;59&#59; candidate for Democratic presidential&#13;&#10;nomination 2000.</skos:DSC>
+<skos:DT>b.1943-</skos:DT>
+<skos:NV>William Warren Bradley</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Brandt%2C%20Willy">
+<skos:prefLabel>Brandt&#44; Willy</skos:prefLabel>
+<skos:DSC>West German politician&#59; Chancellor of West Germany&#13;&#10;1969-1974&amp;&#35;59&#59; Nobel Peace Prize 1971.</skos:DSC>
+<skos:DT>1913-1992</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Brennan%2C%20William">
+<skos:prefLabel>Brennan&#44; William</skos:prefLabel>
+<skos:DSC>US jurist&#59; United States Supreme Court Justice&#13;&#10;1956-1990.</skos:DSC>
+<skos:DT>1906-1997</skos:DT>
+<skos:NV>William Joseph Brennan&#44; Jr.</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Brezhnev%2C%20Leonid">
+<skos:prefLabel>Brezhnev&#44; Leonid</skos:prefLabel>
+<skos:DSC>President of the Soviet Union 1960-1964&#44;&#13;&#10;1977-1982&amp;&#35;59&#59; General Secretary of the Soviet&#13;&#10;Communist Party 1966-1982.</skos:DSC>
+<skos:DT>1906-1982</skos:DT>
+<skos:NV>Leonid Ilyich Brezhnev</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Brown%2C%20Jerry">
+<skos:prefLabel>Brown&#44; Jerry</skos:prefLabel>
+<skos:DSC>United States politician&#59; Governor of California&#13;&#10;1975-1983.</skos:DSC>
+<skos:DT>b.1938-</skos:DT>
+<skos:NV>Edmund Gerald Brown&#44; Jr.&#59; Governor Moonbeam.</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Buchanan%2C%20James">
+<skos:prefLabel>Buchanan&#44; James</skos:prefLabel>
+<skos:DSC>15th President of the United States&#44; 1857-1861.</skos:DSC>
+<skos:DT>1791-1868</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-23</skos:INP>
+<skos:APP>2009-02-23</skos:APP>
+<skos:UPD>2009-02-23</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Buchanan%2C%20Pat">
+<skos:prefLabel>Buchanan&#44; Pat</skos:prefLabel>
+<skos:DSC>Conservative political commentator&#59; candidate for&#13;&#10;United States Republican presidential nomination&#13;&#10;1992&amp;&#35;44&#59; 1996&amp;&#35;44&#59; 2000.</skos:DSC>
+<skos:DT>b.1938-</skos:DT>
+<skos:NV>Patrick Joseph Buchanan</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Bukharin%2C%20Nikolay%20Ivanovich">
+<skos:prefLabel>Bukharin&#44; Nikolay Ivanovich</skos:prefLabel>
+<skos:DSC>Russian Communist leader and editor.</skos:DSC>
+<skos:DT>1888-1938</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Burger%2C%20Warren">
+<skos:prefLabel>Burger&#44; Warren</skos:prefLabel>
+<skos:DSC>US jurist&#59; Chief Justice&#44; United States Supreme&#13;&#10;Court 1969-1986.</skos:DSC>
+<skos:DT>1907-1995</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Bush%2C%20Barbara">
+<skos:prefLabel>Bush&#44; Barbara</skos:prefLabel>
+<skos:DSC>Wife of George Bush&#59; First Lady of the United&#13;&#10;States 1989-1993&amp;&#35;59&#59; mother of George W. Bush.</skos:DSC>
+<skos:DT>b.1925-</skos:DT>
+<skos:NV>Bar</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Bush%2C%20George%20H.W.">
+<skos:prefLabel>Bush&#44; George H.W.</skos:prefLabel>
+<skos:DSC>Vice President of the United States 1981-1989&#59;&#13;&#10;41st President of the United States 1989-1993.</skos:DSC>
+<skos:DT>b.1924-</skos:DT>
+<skos:NV>George Herbert Walker Bush</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Bush%2C%20George%20W.">
+<skos:prefLabel>Bush&#44; George W.</skos:prefLabel>
+<skos:DSC>Son of George &#40;Herbert Walker&#41; Bush&#59; Governor of&#13;&#10;Texas&amp;&#35;59&#59; 43rd President of the United States 2001-2009.</skos:DSC>
+<skos:DT>b.1946-</skos:DT>
+<skos:NV>Dubya</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2010-10-07</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Bush%2C%20Jeb">
+<skos:prefLabel>Bush&#44; Jeb</skos:prefLabel>
+<skos:DSC>US businessman and Republican politician&#59; Governor&#13;&#10;of Florida 1999- &amp;&#35;59&#59; son of George and Barbara Bush&amp;&#35;59&#59;&#13;&#10;brother of George W. Bush.</skos:DSC>
+<skos:DT>b.1953-</skos:DT>
+<skos:NV>John Ellis Bush</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Bush%2C%20Laura">
+<skos:prefLabel>Bush&#44; Laura</skos:prefLabel>
+<skos:DSC>Wife of George W. Bush&#59; First Lady of the United&#13;&#10;States 2001- .</skos:DSC>
+<skos:DT>b.1946-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Cain%2C%20Herman">
+<skos:prefLabel>Cain&#44; Herman</skos:prefLabel>
+<skos:DSC>US author&#44; business executive&#44; radio host&#44; and Tea Party activist from Georgia&#59; a candidate for the 2012 US Republican Party presidential nomination.</skos:DSC>
+<skos:DT>b.1945-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2012-12-10</skos:INP>
+<skos:APP>2012-12-10</skos:APP>
+<skos:UPD>2012-12-10</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Cardin%2C%20Benjamin">
+<skos:prefLabel>Cardin&#44; Benjamin</skos:prefLabel>
+<skos:DSC>US Democratic politician&#44; United States Representative from Maryland 1987-2005&#44; United States Senator from Maryland 2006-  .</skos:DSC>
+<skos:DT>b.1943-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-10-23</skos:INP>
+<skos:APP>2008-10-23</skos:APP>
+<skos:UPD>2008-10-23</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Carter%2C%20Jimmy">
+<skos:prefLabel>Carter&#44; Jimmy</skos:prefLabel>
+<skos:DSC>39th President of the United States 1977-1981.</skos:DSC>
+<skos:DT>b.1924-</skos:DT>
+<skos:NV>James Earl Carter&#44; Jr.</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Castro%2C%20Fidel">
+<skos:prefLabel>Castro&#44; Fidel</skos:prefLabel>
+<skos:DSC>Cuban revolutionary leader&#59; Prime Minister of Cuba&#13;&#10;1959-1977&amp;&#35;59&#59; President of Cuba 1977-2008.</skos:DSC>
+<skos:DT>b.1927-</skos:DT>
+<skos:NV>Fidel Castro Ruz</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2010-11-15</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Cheney%2C%20Dick">
+<skos:prefLabel>Cheney&#44; Dick</skos:prefLabel>
+<skos:DSC>US political appointee&#59; Vice-President of the&#13;&#10;United States 2001-2008.</skos:DSC>
+<skos:DT>b.1941-</skos:DT>
+<skos:NV>Richard Bruce Cheney</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2009-09-30</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Chirac%2C%20Jacques">
+<skos:prefLabel>Chirac&#44; Jacques</skos:prefLabel>
+<skos:DSC>French politician&#59; President of France 1995- .</skos:DSC>
+<skos:DT>b.1932-</skos:DT>
+<skos:NV>Jacques Rene Chirac</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Chissano%2C%20Joaquim">
+<skos:prefLabel>Chissano&#44; Joaquim</skos:prefLabel>
+<skos:DSC>President of Mozambiquie 1986-2005.</skos:DSC>
+<skos:DT>b.1939-</skos:DT>
+<skos:NV>Joaquim Alberto Chissano</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-04-11</skos:INP>
+<skos:APP>2008-04-11</skos:APP>
+<skos:UPD>2008-04-11</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Chretien%2C%20Jean">
+<skos:prefLabel>Chretien&#44; Jean</skos:prefLabel>
+<skos:DSC>Canadian lawyer and Liberal politician&#59; Prime&#13;&#10;Minister of Canada 1993- .</skos:DSC>
+<skos:DT>b.1934-</skos:DT>
+<skos:NV>Joseph Jacques Jean Chretien</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Christie%2C%20Chris">
+<skos:prefLabel>Christie&#44; Chris</skos:prefLabel>
+<skos:DSC>Republican Governor of New Jersey&#44; 2010-  .</skos:DSC>
+<skos:DT>b.1962-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2011-03-10</skos:INP>
+<skos:APP>2011-03-10</skos:APP>
+<skos:UPD>2012-11-28</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Clark%2C%20Wesley">
+<skos:prefLabel>Clark&#44; Wesley</skos:prefLabel>
+<skos:DSC>U.S. Army general&#59; Commander of NATO&#39;s European&#13;&#10;forces 1997-1999&amp;&#35;59&#59; campaigned for Democratic Party&#13;&#10;nomination for 2004 presidential election.</skos:DSC>
+<skos:DT>b.1944-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Cleveland%2C%20Grover">
+<skos:prefLabel>Cleveland&#44; Grover</skos:prefLabel>
+<skos:DSC>22nd and 24th President of the United States&#44; 1885-1889 and 1893-1897.</skos:DSC>
+<skos:DT>1837-1908</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-23</skos:INP>
+<skos:APP>2009-02-23</skos:APP>
+<skos:UPD>2009-02-23</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Clinton%2C%20Bill">
+<skos:prefLabel>Clinton&#44; Bill</skos:prefLabel>
+<skos:DSC>42nd President of the United States 1993-2001.</skos:DSC>
+<skos:DT>b.1946-</skos:DT>
+<skos:NV>William Jefferson Clinton</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Clinton%2C%20Hillary">
+<skos:prefLabel>Clinton&#44; Hillary</skos:prefLabel>
+<skos:DSC>Lawyer&#59; politician&#59;First Lady 1992-2000&#59; Democratic Senator from New York 2000-2008&#59; Secretary of State 2008- .</skos:DSC>
+<skos:DT>b.1947-</skos:DT>
+<skos:NV>Hillary Rodham Clinton</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2009-09-30</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Condit%2C%20Gary">
+<skos:prefLabel>Condit&#44; Gary</skos:prefLabel>
+<skos:DSC>U.S. Democratic politician&#59; United States&#13;&#10;Representative from California 1989-2001&amp;&#35;59&#59; left&#13;&#10;office 2001 in part due to the controversy&#13;&#10;surrounding his association with Chandra Levy&amp;&#35;44&#59; a&#13;&#10;government intern who disappeared and was later&#13;&#10;found dead.</skos:DSC>
+<skos:DT>b.1948-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Connally%2C%20John">
+<skos:prefLabel>Connally&#44; John</skos:prefLabel>
+<skos:DSC>US Democratic&#44; and later Republican&#44; politician&#59;&#13;&#10;Governor of Texas 1963-1969&amp;&#35;59&#59; Secretary of Treasury&#13;&#10;1971-1972&amp;&#35;59&#59; Candidate for Republican presidential&#13;&#10;nomination 1980.</skos:DSC>
+<skos:DT>1917-1993</skos:DT>
+<skos:NV>John Bowden Connelly Jr.</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Coolidge%2C%20Calvin">
+<skos:prefLabel>Coolidge&#44; Calvin</skos:prefLabel>
+<skos:DSC>30th President of the United States&#44; 1923-1929.</skos:DSC>
+<skos:DT>1872-1933</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-23</skos:INP>
+<skos:APP>2009-02-23</skos:APP>
+<skos:UPD>2009-02-23</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Corzine%2C%20Jon">
+<skos:prefLabel>Corzine&#44; Jon</skos:prefLabel>
+<skos:DSC>Democrat Governor of New Jersey&#44; 2006-2010.</skos:DSC>
+<skos:DT>b.1947-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2011-03-10</skos:INP>
+<skos:APP>2011-03-10</skos:APP>
+<skos:UPD>2011-03-10</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Cuomo%2C%20Mario">
+<skos:prefLabel>Cuomo&#44; Mario</skos:prefLabel>
+<skos:DSC>US lawyer and Democratic politician&#59; Governor of&#13;&#10;New York 1983-1995.</skos:DSC>
+<skos:DT>b.1932-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#D%27Amato%2C%20Alfonse">
+<skos:prefLabel>D&#39;Amato&#44; Alfonse</skos:prefLabel>
+<skos:DSC>US lawyer and Republican politician&#59; United States&#13;&#10;Senator from New York 1981-1999.</skos:DSC>
+<skos:DT>b.1937-</skos:DT>
+<skos:NV>Al D&#39;Amato</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Daschle%2C%20Tom">
+<skos:prefLabel>Daschle&#44; Tom</skos:prefLabel>
+<skos:DSC>US Democratic politician&#59; United States&#13;&#10;Representative from South Dakota 1978 - 1986&amp;&#35;59&#59;&#13;&#10;United States Senator from South Dakota 1986-2004.</skos:DSC>
+<skos:DT>b.1947-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2009-09-30</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Davis%2C%20Gray">
+<skos:prefLabel>Davis&#44; Gray</skos:prefLabel>
+<skos:DSC>US Democratic politician&#59; Governor of California&#13;&#10;1998-2003.</skos:DSC>
+<skos:DT>b.1942-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Dayan%2C%20Moshe">
+<skos:prefLabel>Dayan&#44; Moshe</skos:prefLabel>
+<skos:DSC>Israeli Minister of Defense 1967-1974.</skos:DSC>
+<skos:DT>1915-1981</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-08-22</skos:INP>
+<skos:APP>2008-08-22</skos:APP>
+<skos:UPD>2008-08-22</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Dean%2C%20Howard">
+<skos:prefLabel>Dean&#44; Howard</skos:prefLabel>
+<skos:DSC>Democratic governor of Vermont 1991-2002&#59;&#13;&#10;campaigned for Democratic party nomination for&#13;&#10;2004 presidential election.</skos:DSC>
+<skos:DT>b.1948</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Dean%2C%20John">
+<skos:prefLabel>Dean&#44; John</skos:prefLabel>
+<skos:DSC>US lawyer&#44; served as White House counsel during&#13;&#10;Nixon administration &amp;&#35;40&#59;1970-1973&amp;&#35;41&#59;&amp;&#35;59&#59; imprisoned for&#13;&#10;his role in Watergate scandal.</skos:DSC>
+<skos:DT>b. 1938-</skos:DT>
+<skos:NV>John Wesley Dean III</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#DeGaulle%2C%20Charles">
+<skos:prefLabel>DeGaulle&#44; Charles</skos:prefLabel>
+<skos:DSC>French general&#59; President of France 1959-1969.</skos:DSC>
+<skos:DT>1890-1969</skos:DT>
+<skos:NV>Charles Andre Joseph Marie</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#DeLay%2C%20Tom">
+<skos:prefLabel>DeLay&#44; Tom</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; United States Representative from Texas&#59; resigned in 2005 after being indicted on charges of violating campaign finance laws.</skos:DSC>
+<skos:DT>b.1947-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-11-10</skos:INP>
+<skos:APP>2006-11-10</skos:APP>
+<skos:UPD>2006-11-10</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Dewey%2C%20Thomas">
+<skos:prefLabel>Dewey&#44; Thomas</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; Governor of New York&#13;&#10;1943-1955&amp;&#35;59&#59; Republican presidential candidate 1944&amp;&#35;44&#59;&#13;&#10;1948.</skos:DSC>
+<skos:DT>1902-1971</skos:DT>
+<skos:NV>Thomas Edmund Dewey</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Dinkins%2C%20David">
+<skos:prefLabel>Dinkins&#44; David</skos:prefLabel>
+<skos:DSC>US Democratic politician&#59; Mayor of New York City&#13;&#10;1990-1994 &amp;&#35;40&#59;first African American mayor of New&#13;&#10;York City&amp;&#35;41&#59;.</skos:DSC>
+<skos:DT>b.1927-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Dole%2C%20Bob">
+<skos:prefLabel>Dole&#44; Bob</skos:prefLabel>
+<skos:DSC>United States Senator from Kansas 1969-1996&#59;&#13;&#10;United States Senate majority leader 1985-1987&amp;&#35;44&#59;&#13;&#10;1995-1996&amp;&#35;44&#59; minority leader 1987-1995&amp;&#35;59&#59; Republican&#13;&#10;presidential candidate 1996.</skos:DSC>
+<skos:DT>b.1923-</skos:DT>
+<skos:NV>Robert Joseph Dole</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Dole%2C%20Elizabeth">
+<skos:prefLabel>Dole&#44; Elizabeth</skos:prefLabel>
+<skos:DSC>United States political appointee and politician&#59;&#13;&#10;candidate for Republican presidential nomination&#13;&#10;2000&amp;&#35;59&#59; wife of Bob Dole.</skos:DSC>
+<skos:DT>b.1936-</skos:DT>
+<skos:NV>Mary Elizabeth Dole</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Douglas%2C%20William">
+<skos:prefLabel>Douglas&#44; William</skos:prefLabel>
+<skos:DSC>US jurist&#59; United States Supreme Court Justice&#13;&#10;1939-1975.</skos:DSC>
+<skos:DT>1898-1980</skos:DT>
+<skos:NV>William Orville Douglas</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Dukakis%2C%20Michael">
+<skos:prefLabel>Dukakis&#44; Michael</skos:prefLabel>
+<skos:DSC>Governor of Massachusetts 1975-1979&#44; 1983-1991&#59;&#13;&#10;Democratic presidential candidate 1988.</skos:DSC>
+<skos:DT>b.1933-</skos:DT>
+<skos:NV>Michael Stanley Dukakis</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Duke%2C%20David">
+<skos:prefLabel>Duke&#44; David</skos:prefLabel>
+<skos:DSC>US politician&#59; active promoter and officeholder in&#13;&#10;the Ku Klux Klan.</skos:DSC>
+<skos:DT>b. 1951-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Edwards%2C%20John">
+<skos:prefLabel>Edwards&#44; John</skos:prefLabel>
+<skos:DSC>US Democratic politician&#59; United States Senator&#13;&#10;from North Carolina 1999-2004&amp;&#35;59&#59; Candidate for&#13;&#10;Democratic presidential nomination 2004.</skos:DSC>
+<skos:DT>b.1953-</skos:DT>
+<skos:NV>John R. Edwards</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2009-09-30</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Ehrlich%2C%20Bob">
+<skos:prefLabel>Ehrlich&#44; Bob</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; United States&#13;&#10;Representative from Maryland 1994-2002&amp;&#35;59&#59; Governor&#13;&#10;of Maryland 2003- .</skos:DSC>
+<skos:DT>b.1957-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Eisenhower%2C%20Dwight">
+<skos:prefLabel>Eisenhower&#44; Dwight</skos:prefLabel>
+<skos:DSC>34th President of the United States&#44; 1953-1961.</skos:DSC>
+<skos:DT>1890-1969</skos:DT>
+<skos:NV>Dwight David Eisenhower</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Elian%20Gonzalez">
+<skos:prefLabel>Elian Gonzalez</skos:prefLabel>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Erhard%2C%20Ludwig">
+<skos:prefLabel>Erhard&#44; Ludwig</skos:prefLabel>
+<skos:DSC>German politician&#59; first West German economic&#13;&#10;minister 1949-1963&amp;&#35;59&#59; Chancellor of West Germany&#13;&#10;1963-1966&amp;&#35;44&#59; resigned.</skos:DSC>
+<skos:DT>1897-1963</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Falwell%2C%20Jerry">
+<skos:prefLabel>Falwell&#44; Jerry</skos:prefLabel>
+<skos:DSC>US clergymen and conservative commentator&#59; founded&#13;&#10;Moral Majority&amp;&#35;44&#59; 1979.</skos:DSC>
+<skos:DT>1933-2007</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2009-09-30</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Farrakhan%2C%20Louis">
+<skos:prefLabel>Farrakhan&#44; Louis</skos:prefLabel>
+<skos:DSC>Black Muslim leader&#59; leader of the Nation of&#13;&#10;Islam&amp;&#35;44&#59; 1977- &amp;&#35;59&#59; organized Million Man March in&#13;&#10;Washington 1995.</skos:DSC>
+<skos:DT>b.1933-</skos:DT>
+<skos:NV>Louis Eugene Walcott &#40;original name&#41;</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#FDR">
+<skos:altLabel>FDR</skos:altLabel>
+<skos:prefLabel>Roosevelt&#44; Franklin D.</skos:prefLabel>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Ferraro%2C%20Geraldine">
+<skos:prefLabel>Ferraro&#44; Geraldine</skos:prefLabel>
+<skos:DSC>United States Representative from New York&#13;&#10;1979-1985&amp;&#35;59&#59; Democratic vice presidential candidate&#13;&#10;1984.</skos:DSC>
+<skos:DT>b.1935</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Fillmore%2C%20Millard">
+<skos:prefLabel>Fillmore&#44; Millard</skos:prefLabel>
+<skos:DSC>13th President of the United States&#44; 1850-1853.</skos:DSC>
+<skos:DT>1800-1874</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-26</skos:INP>
+<skos:APP>2009-02-26</skos:APP>
+<skos:UPD>2013-04-16</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Flowers%2C%20Gennifer">
+<skos:prefLabel>Flowers&#44; Gennifer</skos:prefLabel>
+<skos:DSC>US nightclub singer&#44; Arkansas state employee&#59;&#13;&#10;claimed in 1992 to have had twelve year affair&#13;&#10;with Bill Clinton.</skos:DSC>
+<skos:DT>b.1950-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Forbes%2C%20Steve">
+<skos:prefLabel>Forbes&#44; Steve</skos:prefLabel>
+<skos:DSC>US businessman and publisher&#59; CEO of Forbes&#44; Inc.&#13;&#10;1990- &amp;&#35;59&#59; candidate for Republican presidential&#13;&#10;nomination 1996&amp;&#35;44&#59; 2000&amp;&#35;59&#59; son of Malcolm Forbes.</skos:DSC>
+<skos:DT>b.1947-</skos:DT>
+<skos:NV>Malcolm Stevenson Forbes&#44; Jr.</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Ford%2C%20Gerald">
+<skos:prefLabel>Ford&#44; Gerald</skos:prefLabel>
+<skos:DSC>38th President of the United States 1974-77.</skos:DSC>
+<skos:DT>b.1913-</skos:DT>
+<skos:NV>Gerald R. Ford&#59; Gerald Rudolph Ford</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Fortas%2C%20Abe">
+<skos:prefLabel>Fortas&#44; Abe</skos:prefLabel>
+<skos:DSC>US jurist&#59; United States Supreme Court Justice&#13;&#10;1965-69&amp;&#35;59&#59; first justice ever to resign due to&#13;&#10;public criticism.</skos:DSC>
+<skos:DT>1910-1982</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Fox%2C%20Vicente">
+<skos:altLabel>Fox&#44; Vicente</skos:altLabel>
+<skos:prefLabel>Fox&#44; Vincente</skos:prefLabel>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Fox%2C%20Vincente">
+<skos:prefLabel>Fox&#44; Vincente</skos:prefLabel>
+<skos:DSC>President of Mexico 2000-2006.</skos:DSC>
+<skos:DT>b.1942-</skos:DT>
+<skos:NV>Vicente Fox&#44; Vicente Fox Quesada&#44; Vincente Fox&#13;&#10;Quesada.</skos:NV>
+<skos:altLabel>Fox&#44; Vicente</skos:altLabel>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Frankfurter%2C%20Felix">
+<skos:prefLabel>Frankfurter&#44; Felix</skos:prefLabel>
+<skos:DSC>US jurist&#59; United States Supreme Court Justice&#13;&#10;1939-1962.</skos:DSC>
+<skos:DT>1882-1965</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Gaddafi%2C%20Muammur">
+<skos:prefLabel>Gaddafi&#44; Muammur</skos:prefLabel>
+<skos:DSC>Libyan revolutionary&#44; politician&#44; and political theorist&#59; served as the ruler of Libya 1969-2011.</skos:DSC>
+<skos:DT>1942-2011</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2013-01-11</skos:INP>
+<skos:APP>2013-01-11</skos:APP>
+<skos:UPD>2013-01-11</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Garfield%2C%20James">
+<skos:prefLabel>Garfield&#44; James</skos:prefLabel>
+<skos:DSC>20th President of the United States&#44; 1881&#44; assassinated after two months in office.</skos:DSC>
+<skos:DT>1831-1881</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-23</skos:INP>
+<skos:APP>2009-02-23</skos:APP>
+<skos:UPD>2009-02-23</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Gates%2C%20Bill">
+<skos:prefLabel>Gates&#44; Bill</skos:prefLabel>
+<skos:DSC>US computer software businessman&#59; co-founder of&#13;&#10;Microsoft Corp.&amp;&#35;44&#59; 1976.</skos:DSC>
+<skos:DT>b.1955-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Gephardt%2C%20Dick">
+<skos:prefLabel>Gephardt&#44; Dick</skos:prefLabel>
+<skos:DSC>US Democratic politician&#59; United States&#13;&#10;Representative from Missouri 1977-2002&amp;&#35;59&#59; candidate&#13;&#10;for Democratic presidential nomination 1988 and&#13;&#10;2004&amp;&#35;59&#59; House majority leader 1989-1995&amp;&#35;59&#59; House&#13;&#10;minority leader 1995-2002 .</skos:DSC>
+<skos:DT>b.1941-</skos:DT>
+<skos:NV>Richard Gephardt</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Gingrich%2C%20Newt">
+<skos:prefLabel>Gingrich&#44; Newt</skos:prefLabel>
+<skos:DSC>United States Representative from Georgia 1979-99&#59;&#13;&#10;Republican Speaker of the House 1995-98.</skos:DSC>
+<skos:DT>b.1943-</skos:DT>
+<skos:NV>Newton Leroy Gingrich</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Giuliani%2C%20Rudolph">
+<skos:prefLabel>Giuliani&#44; Rudolph</skos:prefLabel>
+<skos:DSC>US lawyer and Republican politician&#59; Mayor of New&#13;&#10;York City 1994 - 2001.</skos:DSC>
+<skos:DT>b.1944-</skos:DT>
+<skos:NV>Rudy Giuliani</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Glenn%2C%20John">
+<skos:prefLabel>Glenn&#44; John</skos:prefLabel>
+<skos:DSC>US astronaut and Democratic politician&#59; first&#13;&#10;American to orbit the Earth 1962&amp;&#35;59&#59; United States&#13;&#10;Senator from Ohio 1974-1999&amp;&#35;59&#59; candidate for&#13;&#10;Democratic presidential nomination 1984&amp;&#35;59&#59; returned&#13;&#10;to space aboard shuttle Discovery&amp;&#35;44&#59; 1998.</skos:DSC>
+<skos:DT>b.1921-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Goetz%2C%20Bernhard">
+<skos:prefLabel>Goetz&#44; Bernhard</skos:prefLabel>
+<skos:NV>Bernie Goetz</skos:NV>
+<skos:scopeNote>US businessman and vigilante&#59; in self-defence&#44;&#13;&#10;shot four muggers during a hold-up in a New York&#13;&#10;City subway&amp;&#35;44&#59; 1984 &amp;&#35;40&#59;acquitted of attempted murder&#13;&#10;1987&amp;&#35;41&#59;.</skos:scopeNote>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Gorbachev%2C%20Mikhail">
+<skos:prefLabel>Gorbachev&#44; Mikhail</skos:prefLabel>
+<skos:DSC>President of the Soviet Union 1988-1991&#59; Nobel&#13;&#10;Peace prize 1990.</skos:DSC>
+<skos:DT>b.1931-</skos:DT>
+<skos:NV>Mikhail Sergeyevich Gorbachev</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Gore%2C%20Al">
+<skos:prefLabel>Gore&#44; Al</skos:prefLabel>
+<skos:DSC>United States Representative from Tennessee&#13;&#10;1977-1985&amp;&#35;59&#59; United States Senator from Tennessee&#13;&#10;1985-1993&amp;&#35;59&#59; Vice President of the United States&#13;&#10;1993-2001&amp;&#35;59&#59; Democratic presidential candidate 2000&amp;&#35;44&#59;&#13;&#10;delivered concession speech 36 days after&#13;&#10;election&amp;&#35;44&#59; following a series of legal battles&#13;&#10;surrounding voting  irregularities and hand&#13;&#10;recounts in several Florida counties.</skos:DSC>
+<skos:DT>b.1948-</skos:DT>
+<skos:NV>Albert Arnold Gore&#44; Jr.</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2009-09-30</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Gramm%2C%20Phil">
+<skos:prefLabel>Gramm&#44; Phil</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; United States&#13;&#10;Representative from Texas 1979-1983 &amp;&#35;40&#59;as a&#13;&#10;Democrat&amp;&#35;41&#59;&amp;&#35;44&#59; 1983-1985 &amp;&#35;40&#59;as a Republican&amp;&#35;41&#59;&amp;&#35;59&#59; United&#13;&#10;States Senator from Texas 1985- .</skos:DSC>
+<skos:DT>b.1942-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Grant%2C%20Ulysses%20S.">
+<skos:prefLabel>Grant&#44; Ulysses S.</skos:prefLabel>
+<skos:DSC>18th President of the United States&#44; 1868-1876.</skos:DSC>
+<skos:DT>1822-1885</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-23</skos:INP>
+<skos:APP>2009-02-23</skos:APP>
+<skos:UPD>2009-02-23</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Gravel%2C%20Mike">
+<skos:prefLabel>Gravel&#44; Mike</skos:prefLabel>
+<skos:DSC>US Democratic politiciam&#59; United States Representative from Alaska&#44; 1963-1966&#44; Senator 1968-1980.</skos:DSC>
+<skos:DT>b.1930-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-06</skos:INP>
+<skos:APP>2009-02-06</skos:APP>
+<skos:UPD>2009-02-06</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Greenspan%2C%20Alan">
+<skos:prefLabel>Greenspan&#44; Alan</skos:prefLabel>
+<skos:DSC>US economist&#59; Chairman of the Federal Reserve&#13;&#10;Board 1987- .</skos:DSC>
+<skos:DT>b.1926-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Gromyko%2C%20Andrei">
+<skos:prefLabel>Gromyko&#44; Andrei</skos:prefLabel>
+<skos:DSC>Soviet diplomat&#59; President of the Soviet Union&#13;&#10;1985-1988.</skos:DSC>
+<skos:DT>1909-1980</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Haig%2C%20Alexander">
+<skos:prefLabel>Haig&#44; Alexander</skos:prefLabel>
+<skos:DSC>US diplomat&#44; general&#44; and politician&#59; Supreme&#13;&#10;Allied Commander in Europe 1974-1979&amp;&#35;59&#59; United&#13;&#10;States Secretary of State 1981-1982.</skos:DSC>
+<skos:DT>1924-2010</skos:DT>
+<skos:NV>Al Haig</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2010-03-17</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Harding%2C%20Tonya">
+<skos:prefLabel>Harding&#44; Tonya</skos:prefLabel>
+<skos:DSC>American figure skater&#59; received criminal&#13;&#10;indictment for her role in plotting an assault on&#13;&#10;another skater.</skos:DSC>
+<skos:DT>b. 1970-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Harding%2C%20Warren%20G.">
+<skos:prefLabel>Harding&#44; Warren G.</skos:prefLabel>
+<skos:DSC>President of the United States 1921-1923.</skos:DSC>
+<skos:DT>1865-1923</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-01-08</skos:INP>
+<skos:APP>2009-01-08</skos:APP>
+<skos:UPD>2009-01-08</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Harkin%2C%20Tom">
+<skos:prefLabel>Harkin&#44; Tom</skos:prefLabel>
+<skos:DSC>US Democratic politician&#59; United States&#13;&#10;Congressman from Iowa 1974-1984&amp;&#35;59&#59; United States&#13;&#10;Senator from Iowa 1984 - .</skos:DSC>
+<skos:DT>b.1939 -</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Harrison%2C%20Benjamin">
+<skos:prefLabel>Harrison&#44; Benjamin</skos:prefLabel>
+<skos:DSC>23rd President of the United States&#44; 1889-1893.</skos:DSC>
+<skos:DT>1833-1901</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-23</skos:INP>
+<skos:APP>2009-02-23</skos:APP>
+<skos:UPD>2009-02-23</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Harrison%2C%20William%20Henry">
+<skos:prefLabel>Harrison&#44; William Henry</skos:prefLabel>
+<skos:DSC>9th President of the United States&#44; 1840&#44; died after one month in office.</skos:DSC>
+<skos:DT>1773-1841</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-23</skos:INP>
+<skos:APP>2009-02-23</skos:APP>
+<skos:UPD>2009-02-23</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Hart%2C%20Gary">
+<skos:prefLabel>Hart&#44; Gary</skos:prefLabel>
+<skos:DSC>US Democratic politician&#59; United States Senator&#13;&#10;from Colorado&amp;&#35;59&#59; candidate for Democratic&#13;&#10;presidential nomination 1988.</skos:DSC>
+<skos:DT>b.1937-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Hastert%2C%20Dennis">
+<skos:prefLabel>Hastert&#44; Dennis</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; United States&#13;&#10;Representative from Illinois 1987- .</skos:DSC>
+<skos:DT>b.1942-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Hatch%2C%20Orrin">
+<skos:prefLabel>Hatch&#44; Orrin</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; United States Senator&#13;&#10;from Utah 1977- &amp;&#35;59&#59; Chairman of Senate Judiciary&#13;&#10;Committee 1995-2001&amp;&#35;44&#59; 2001- &amp;&#35;59&#59; candidate for&#13;&#10;Republican presidential nomination 2000.</skos:DSC>
+<skos:DT>b.1934-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Hayes%2C%20Rutherford%20B.">
+<skos:prefLabel>Hayes&#44; Rutherford B.</skos:prefLabel>
+<skos:DSC>19th President of the United States&#44; 1877-1881.</skos:DSC>
+<skos:DT>1822-1893</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-23</skos:INP>
+<skos:APP>2009-02-23</skos:APP>
+<skos:UPD>2009-02-23</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Heath%2C%20Edward">
+<skos:prefLabel>Heath&#44; Edward</skos:prefLabel>
+<skos:DSC>British politician&#59; leader of the Conservative&#13;&#10;party 1965-1975&amp;&#35;59&#59; British Prime Minister 1970-1974.</skos:DSC>
+<skos:DT>b.1916-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Hill%2C%20Anita">
+<skos:prefLabel>Hill&#44; Anita</skos:prefLabel>
+<skos:DSC>Lawyer&#44; law educator&#59; assistant to Clarence Thomas&#13;&#10;1981-1983&amp;&#35;59&#59; charged Clarence Thomas with sexual&#13;&#10;harassment during Thomas&amp;&#35;39&#59; Senate confirmation&#13;&#10;hearing for Supreme Court appointment 1991.</skos:DSC>
+<skos:DT>b.1956-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Hitler%2C%20Adolf">
+<skos:prefLabel>Hitler&#44; Adolf</skos:prefLabel>
+<skos:DSC>German dictator 1933-1945&#59; instigator of the&#13;&#10;Holocaust and World War II.</skos:DSC>
+<skos:DT>1889-1945</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Honecker%2C%20Erich">
+<skos:prefLabel>Honecker&#44; Erich</skos:prefLabel>
+<skos:DSC>East German Communist politician&#59; President of&#13;&#10;East Germany 1976-1989.</skos:DSC>
+<skos:DT>1912-1994</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Hoover%2C%20Herbert">
+<skos:prefLabel>Hoover&#44; Herbert</skos:prefLabel>
+<skos:DSC>President of the United States 1929-1933.</skos:DSC>
+<skos:DT>1874-1964</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-01-08</skos:INP>
+<skos:APP>2009-01-08</skos:APP>
+<skos:UPD>2009-01-08</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Huckabee%2C%20Mike">
+<skos:prefLabel>Huckabee&#44; Mike</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; Governor of Arkansas 1996-2007&#59; candidate for Republican presidential nomination 2007-2008.</skos:DSC>
+<skos:DT>b.1955-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-10</skos:INP>
+<skos:APP>2009-02-10</skos:APP>
+<skos:UPD>2009-02-10</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Hunter%2C%20Duncan">
+<skos:prefLabel>Hunter&#44; Duncan</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; United States Representative from California&#44; 1980- .</skos:DSC>
+<skos:DT>b.1948-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-06</skos:INP>
+<skos:APP>2009-02-06</skos:APP>
+<skos:UPD>2009-02-06</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Huntsman%2C%20Jon">
+<skos:prefLabel>Huntsman&#44; Jon</skos:prefLabel>
+<skos:DSC>US politician and diploment&#59; governor of Utah&#44; 2005-2009&#59; a candidate for the 2012 US Republican Party presidential nomination.</skos:DSC>
+<skos:DT>b.1960-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2012-12-10</skos:INP>
+<skos:APP>2012-12-10</skos:APP>
+<skos:UPD>2012-12-10</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Hussein%2C%20Saddam">
+<skos:prefLabel>Hussein&#44; Saddam</skos:prefLabel>
+<skos:DSC>Iraqi dictator 1979- &#59; directed Iraqi invasion of&#13;&#10;Kuwait 1990&amp;&#35;59&#59; defeated in Gulf War 1991.</skos:DSC>
+<skos:DT>b.1937-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Hyde%2C%20Henry">
+<skos:prefLabel>Hyde&#44; Henry</skos:prefLabel>
+<skos:DSC>United States Representative from Ilinois 1975- &#59;&#13;&#10;Chairman of the House Judiciary Committee 1995- &amp;&#35;59&#59;&#13;&#10;presided over Judiciary Committee  hearings on&#13;&#10;impeachment of President Clinton.</skos:DSC>
+<skos:DT>1924-2007</skos:DT>
+<skos:NV>Henry John Hyde</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2009-09-30</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Ikedo%2C%20Hayato">
+<skos:prefLabel>Ikedo&#44; Hayato</skos:prefLabel>
+<skos:DSC>Japanese politician&#59; Prime Minister of Japan&#13;&#10;1960-1964.</skos:DSC>
+<skos:DT>1899-1965</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Ito%2C%20Lance">
+<skos:prefLabel>Ito&#44; Lance</skos:prefLabel>
+<skos:DSC>US judge&#59; presided in O. J. Simpson&#39;s murder&#13;&#10;trial&amp;&#35;44&#59; 1994-1995.</skos:DSC>
+<skos:DT>b.1950-</skos:DT>
+<skos:NV>Judge Ito</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Jackson%2C%20Andrew">
+<skos:prefLabel>Jackson&#44; Andrew</skos:prefLabel>
+<skos:DSC>7th President of the United States&#44; 1828-1836.</skos:DSC>
+<skos:DT>1767-1845</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-23</skos:INP>
+<skos:APP>2009-02-23</skos:APP>
+<skos:UPD>2009-02-23</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Jackson%2C%20Jesse">
+<skos:prefLabel>Jackson&#44; Jesse</skos:prefLabel>
+<skos:DSC>US Baptist minister&#59; political activist.</skos:DSC>
+<skos:DT>b.1941-</skos:DT>
+<skos:NV>Jesse Louis Jackson</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Jackson%2C%20Michael">
+<skos:prefLabel>Jackson&#44; Michael</skos:prefLabel>
+<skos:DSC>American recording artist&#44; entertainer&#44; actor&#44; and businessman.</skos:DSC>
+<skos:DT>1958-2009</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2013-01-11</skos:INP>
+<skos:APP>2013-01-11</skos:APP>
+<skos:UPD>2013-01-11</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Jefferson%2C%20Thomas">
+<skos:prefLabel>Jefferson&#44; Thomas</skos:prefLabel>
+<skos:DSC>3rd President of the United States&#44; 1801-1809.</skos:DSC>
+<skos:DT>1743-1826</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-23</skos:INP>
+<skos:APP>2009-02-23</skos:APP>
+<skos:UPD>2009-02-23</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Jeffords%2C%20Jim">
+<skos:prefLabel>Jeffords&#44; Jim</skos:prefLabel>
+<skos:DSC>U.S. Republican politician.  United States Senator&#13;&#10;from Vermont 1988-2001&amp;&#35;59&#59; in 2001 left the&#13;&#10;Republican party to become an Independent.</skos:DSC>
+<skos:DT>b.1934-</skos:DT>
+<skos:NV>James Jeffords&#44; James Merrill Jeffords</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#JFK">
+<skos:altLabel>JFK</skos:altLabel>
+<skos:prefLabel>Kennedy&#44; John F.</skos:prefLabel>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Jiang%20Zemin">
+<skos:prefLabel>Jiang Zemin</skos:prefLabel>
+<skos:DSC>Chinese Communist politician&#59; President of China&#13;&#10;1993- .</skos:DSC>
+<skos:DT>b.1926-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Jobs%2C%20Steve">
+<skos:prefLabel>Jobs&#44; Steve</skos:prefLabel>
+<skos:DSC>American entrepreneur&#44; best known as the co-founder&#44; chairman&#44; and CEO of Apple&#44; Inc.</skos:DSC>
+<skos:DT>1955-2011</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2013-01-11</skos:INP>
+<skos:APP>2013-01-11</skos:APP>
+<skos:UPD>2013-01-11</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Johnson%2C%20Andrew">
+<skos:prefLabel>Johnson&#44; Andrew</skos:prefLabel>
+<skos:DSC>17th President of the United States&#44; 1865-1869.</skos:DSC>
+<skos:DT>1808-1875</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-26</skos:INP>
+<skos:APP>2009-02-26</skos:APP>
+<skos:UPD>2009-02-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Johnson%2C%20Lyndon">
+<skos:prefLabel>Johnson&#44; Lyndon</skos:prefLabel>
+<skos:DSC>36th President of the United States 1963-1969.</skos:DSC>
+<skos:DT>1908-1973</skos:DT>
+<skos:NV>Lyndon Baines Johnson&#44; LBJ</skos:NV>
+<skos:altLabel>Johnson&#44; Lyndon B.</skos:altLabel>
+<skos:UF>LBJ</skos:UF>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Johnson%2C%20Lyndon%20B.">
+<skos:altLabel>Johnson&#44; Lyndon B.</skos:altLabel>
+<skos:prefLabel>Johnson&#44; Lyndon</skos:prefLabel>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Jones%2C%20Paula">
+<skos:prefLabel>Jones&#44; Paula</skos:prefLabel>
+<skos:DSC>US litigant and Arkansas state employee&#59; filed&#13;&#10;civil sexual harassment lawsuit against Bill&#13;&#10;Clinton&amp;&#35;44&#59; 1994 &amp;&#35;40&#59;for alleged occurrence in 1991&amp;&#35;41&#59;&amp;&#35;59&#59;&#13;&#10;lawsuit dismissed 1998.</skos:DSC>
+<skos:DT>b.1966-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Kagan%2C%20Elena">
+<skos:prefLabel>Kagan&#44; Elena</skos:prefLabel>
+<skos:DSC>Justice of the United States Supreme Court. Nominated by President Barack Obama&#44; confirmed in 2010.</skos:DSC>
+<skos:DT>b.1960-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2011-10-11</skos:INP>
+<skos:APP>2011-10-11</skos:APP>
+<skos:UPD>2011-10-11</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Kaine%2C%20Timothy">
+<skos:prefLabel>Kaine&#44; Timothy</skos:prefLabel>
+<skos:DSC>US Democratic politician&#59; governor of Virginia 2006-2010.</skos:DSC>
+<skos:DT>b.1957-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-11-06</skos:INP>
+<skos:APP>2006-11-06</skos:APP>
+<skos:UPD>2010-10-08</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Kemp%2C%20Jack">
+<skos:prefLabel>Kemp&#44; Jack</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; United States&#13;&#10;Representative from New York 1971-1989&amp;&#35;59&#59; candidate&#13;&#10;for Republican presidential nomination 1988&amp;&#35;59&#59;&#13;&#10;Republican Vice-Presidential candidate 1996.</skos:DSC>
+<skos:DT>b.1935-</skos:DT>
+<skos:NV>Jack French Kemp</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Kennedy%2C%20Edward%20M.">
+<skos:prefLabel>Kennedy&#44; Edward M.</skos:prefLabel>
+<skos:DSC>United States Senator from Massachusetts 1962-2009&#59;&#13;&#10;brother of John F. Kennedy and Robert Kennedy.</skos:DSC>
+<skos:DT>1932-2009</skos:DT>
+<skos:NV>Edward Moore Kennedy&#44; Ted Kennedy&#44; Teddy Kennedy</skos:NV>
+<skos:altLabel>Kennedy&#44; Ted</skos:altLabel>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2009-09-30</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Kennedy%2C%20Jack">
+<skos:altLabel>Kennedy&#44; Jack</skos:altLabel>
+<skos:prefLabel>Kennedy&#44; John F.</skos:prefLabel>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Kennedy%2C%20John">
+<skos:altLabel>Kennedy&#44; John</skos:altLabel>
+<skos:prefLabel>Kennedy&#44; John F.</skos:prefLabel>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Kennedy%2C%20John%20F.">
+<skos:prefLabel>Kennedy&#44; John F.</skos:prefLabel>
+<skos:DSC>35th President of the United States 1961-1963&#59;&#13;&#10;brother of Robert Kennedy and Edward M. Kennedy&amp;&#35;59&#59;&#13;&#10;assassinated 1963.</skos:DSC>
+<skos:DT>1917-1963</skos:DT>
+<skos:NV>John Fitzgerald Kennedy&#44; John Kennedy&#44; Jack&#13;&#10;Kennedy&amp;&#35;44&#59; JFK</skos:NV>
+<skos:altLabel>JFK</skos:altLabel>
+<skos:UF>Kennedy&#44; Jack</skos:UF>
+<skos:UF>Kennedy&#44; John</skos:UF>
+<skos:UF>Kennedy&#44; John Fitzgerald</skos:UF>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Kennedy%2C%20John%20Fitzgerald">
+<skos:altLabel>Kennedy&#44; John Fitzgerald</skos:altLabel>
+<skos:prefLabel>Kennedy&#44; John F.</skos:prefLabel>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Kennedy%2C%20Robert">
+<skos:prefLabel>Kennedy&#44; Robert</skos:prefLabel>
+<skos:DSC>United States Attorney General 1961-1965&#59; Senator&#13;&#10;from New York 1965-1968&amp;&#35;59&#59; candidate for Democratic&#13;&#10;presidential nomination 1968&amp;&#35;59&#59; brother of John F.&#13;&#10;Kennedy and Edward M. Kennedy&amp;&#35;59&#59; assassinated 1968.</skos:DSC>
+<skos:DT>1925-1968</skos:DT>
+<skos:NV>Bobby Kennedy&#44; RFK&#44; Robert Francis Kennedy</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Kennedy%2C%20Ted">
+<skos:altLabel>Kennedy&#44; Ted</skos:altLabel>
+<skos:prefLabel>Kennedy&#44; Edward M.</skos:prefLabel>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Kerrey%2C%20Bob">
+<skos:prefLabel>Kerrey&#44; Bob</skos:prefLabel>
+<skos:DSC>Governor of Nebraska 1983-1987&#59; United States&#13;&#10;Senator from Nebraska 1989- .</skos:DSC>
+<skos:DT>b.1943-</skos:DT>
+<skos:NV>Joseph Robert Kerrey</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Kerrigan%2C%20Nancy">
+<skos:prefLabel>Kerrigan&#44; Nancy</skos:prefLabel>
+<skos:DSC>American figure skater&#59; physically assaulted at&#13;&#10;Olympic qualifying competition in a plot contrived&#13;&#10;by a fellow skater&amp;&#35;59&#59; won silver medal in 1994&#13;&#10;Winter Olympics.</skos:DSC>
+<skos:DT>b. 1969-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Kerry%2C%20John">
+<skos:prefLabel>Kerry&#44; John</skos:prefLabel>
+<skos:DSC>US Democratic politician&#59; United States Senator&#13;&#10;from Massachusetts 1985- &amp;&#35;59&#59; candidate for&#13;&#10;Democratic presidential nomination 2004.</skos:DSC>
+<skos:DT>b.1943-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Kervorkian%2C%20Jack">
+<skos:prefLabel>Kervorkian&#44; Jack</skos:prefLabel>
+<skos:DSC>Pathologist&#59; champion of the cause of&#13;&#10;physician-assisted suicide.</skos:DSC>
+<skos:DT>b.1928-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Keyes%2C%20Alan">
+<skos:prefLabel>Keyes&#44; Alan</skos:prefLabel>
+<skos:DSC>Candidate for Republican presidential nomination&#13;&#10;1996&amp;&#35;44&#59; 2000.</skos:DSC>
+<skos:DT>b.1950-</skos:DT>
+<skos:NV>Alan Lee Keyes</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Khrushchev%2C%20Nikita">
+<skos:prefLabel>Khrushchev&#44; Nikita</skos:prefLabel>
+<skos:DSC>Russian Soviet Communist politician&#59; Premier of&#13;&#10;Soviet Union 1958-1964.</skos:DSC>
+<skos:DT>1894-1971</skos:DT>
+<skos:NV>Nikita Sergeyevich Khrushchev</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Kibaki%2C%20Mwai">
+<skos:prefLabel>Kibaki&#44; Mwai</skos:prefLabel>
+<skos:DSC>President of Kenya&#44; 2002- .</skos:DSC>
+<skos:DT>b.1938-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-07-02</skos:INP>
+<skos:APP>2008-07-02</skos:APP>
+<skos:UPD>2008-07-02</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#King%20Hussein">
+<skos:prefLabel>King Hussein</skos:prefLabel>
+<skos:DSC>King of Jordan 1952-1999.</skos:DSC>
+<skos:DT>1935-1999</skos:DT>
+<skos:NV>Hussein I &#40;Hussein ibn Talal ibn Hussein&#41;   NOTE&#58;&#13;&#10;use &amp;&#35;34&#59;King Hussein&amp;&#35;34&#59;.</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#King%2C%20Coretta%20Scott">
+<skos:prefLabel>King&#44; Coretta Scott</skos:prefLabel>
+<skos:DSC>American civil rights activist&#59; widow of Martin&#13;&#10;Luther King.</skos:DSC>
+<skos:DT>b. 1927-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#King%2C%20Martin%20Luther">
+<skos:prefLabel>King&#44; Martin Luther</skos:prefLabel>
+<skos:DSC>Baptist minister&#59; civil rights leader&#59; Nobel Peace&#13;&#10;prize 1964&amp;&#35;59&#59; assassinated 1968.</skos:DSC>
+<skos:DT>1929-1968</skos:DT>
+<skos:NV>Martin Luther King&#44; Jr</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#King%2C%20Rodney">
+<skos:prefLabel>King&#44; Rodney</skos:prefLabel>
+<skos:DSC>Black motorist beaten by Los Angeles police 1991&#44;&#13;&#10;leading to heightened racial tensions.</skos:DSC>
+<skos:DT>b.1965-</skos:DT>
+<skos:NV>Rodney Glen King</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Koch%2C%20Ed">
+<skos:prefLabel>Koch&#44; Ed</skos:prefLabel>
+<skos:DSC>US judge&#44; lawyer&#44; and Democratic politician&#59; Mayor&#13;&#10;of New York City 1978-1990.</skos:DSC>
+<skos:DT>b.1924-</skos:DT>
+<skos:NV>Edward Koch</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Kohl%2C%20Helmut">
+<skos:prefLabel>Kohl&#44; Helmut</skos:prefLabel>
+<skos:DSC>German Christian Democratic politician&#59; last&#13;&#10;Chancellor of West Germany 1982-1990&amp;&#35;59&#59; presided&#13;&#10;over reunification of Germany&amp;&#35;44&#59; 1990&amp;&#35;59&#59; Chancellor of&#13;&#10;Germany 1990-1998.</skos:DSC>
+<skos:DT>b.1930-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Koresh%2C%20David">
+<skos:prefLabel>Koresh&#44; David</skos:prefLabel>
+<skos:DSC>Leader of Branch Davidian cult&#59; killed in raid on&#13;&#10;Waco&amp;&#35;44&#59; Texas cult compound 1993.</skos:DSC>
+<skos:DT>1955-1993</skos:DT>
+<skos:NV>Vernon Wayne Howell &#40;original name&#41;</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Kucinich%2C%20Dennis">
+<skos:prefLabel>Kucinich&#44; Dennis</skos:prefLabel>
+<skos:DSC>US Democratic politician&#59; United States&#13;&#10;Representative from Ohio 1996- &amp;&#35;59&#59; candidate for&#13;&#10;Democratic presidential nomination 2004.</skos:DSC>
+<skos:DT>b.1946-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Kufuor%2C%20John%20Agyekum">
+<skos:prefLabel>Kufuor&#44; John Agyekum</skos:prefLabel>
+<skos:DSC>Ghanian lawyer and politician&#44; President of Ghana 2000-  .</skos:DSC>
+<skos:DT>b.1938-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-08-22</skos:INP>
+<skos:APP>2008-08-22</skos:APP>
+<skos:UPD>2008-08-22</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Lautenberg%2C%20Frank">
+<skos:prefLabel>Lautenberg&#44; Frank</skos:prefLabel>
+<skos:DSC>US Democratic politician&#59; US Senator 1982-2000&#44;&#13;&#10;2002- .</skos:DSC>
+<skos:DT>b.1924-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#LBJ">
+<skos:altLabel>LBJ</skos:altLabel>
+<skos:prefLabel>Johnson&#44; Lyndon</skos:prefLabel>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Lee%20Harvey%20Oswald">
+<skos:prefLabel>Lee Harvey Oswald</skos:prefLabel>
+<skos:DSC>Probable assassin of President John F. Kennedy&#13;&#10;1963&amp;&#35;59&#59; murdered two days after assassination.</skos:DSC>
+<skos:DT>1939-1963</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Levy%2C%20Chandra">
+<skos:prefLabel>Levy&#44; Chandra</skos:prefLabel>
+<skos:DSC>Government intern from California associated with&#13;&#10;Congressman Gary Condit&amp;&#35;59&#59; disappeared and murdered&#13;&#10;2002.</skos:DSC>
+<skos:DT>1978-2002</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Lewinsky%2C%20Monica">
+<skos:prefLabel>Lewinsky&#44; Monica</skos:prefLabel>
+<skos:DSC>White House intern&#59; had affair with President&#13;&#10;Clinton 1995&amp;&#35;59&#59; provided testimony forming principal&#13;&#10;basis for United States Senates&amp;&#35;39&#59; impeachment trial&#13;&#10;of President Clinton.</skos:DSC>
+<skos:DT>b.1973-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Libby%2C%20Lewis">
+<skos:prefLabel>Libby&#44; Lewis</skos:prefLabel>
+<skos:DSC>US lawyer&#59; chief of staff to Vice President Dick Cheney 2001-2005&#59; indicted 2005 for perjury&#44; false statements&#44; and obstruction of justice in connection with the Valerie Plame CIA leak probe.</skos:DSC>
+<skos:DT>b.1950-</skos:DT>
+<skos:NV>Scooter Libby</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-11-06</skos:INP>
+<skos:APP>2006-11-06</skos:APP>
+<skos:UPD>2006-11-06</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Lieberman%2C%20Joe">
+<skos:prefLabel>Lieberman&#44; Joe</skos:prefLabel>
+<skos:DSC>US Democratic politician&#59; United States Senator&#13;&#10;from Connecticut 1989- &amp;&#35;59&#59;  Democractic vice&#13;&#10;presidential candidate 2000&amp;&#35;59&#59; candidate for&#13;&#10;Democratic presidential nomination 2004.</skos:DSC>
+<skos:DT>b.1942-</skos:DT>
+<skos:NV>Joseph Isador Lieberman</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Lincoln%2C%20Abraham">
+<skos:prefLabel>Lincoln&#44; Abraham</skos:prefLabel>
+<skos:DSC>16th President of the United States&#44; 1861-1865.</skos:DSC>
+<skos:DT>1809-1865</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-23</skos:INP>
+<skos:APP>2009-02-23</skos:APP>
+<skos:UPD>2009-02-23</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Lott%2C%20Trent">
+<skos:prefLabel>Lott&#44; Trent</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; United States&#13;&#10;Representative from Mississippi 1973-1989&amp;&#35;59&#59; House&#13;&#10;minority whip 1981-1989&amp;&#35;59&#59; United States Senator&#13;&#10;from Mississippi&amp;&#35;44&#59; 1989- &amp;&#35;59&#59; Senate majority leader&#13;&#10;1996-2001&amp;&#35;44&#59; 2001- .</skos:DSC>
+<skos:DT>b.1941-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#MacArthur%2C%20Douglas">
+<skos:prefLabel>MacArthur&#44; Douglas</skos:prefLabel>
+<skos:DSC>US general during World War II.</skos:DSC>
+<skos:DT>1880-1964</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Madison%2C%20James">
+<skos:prefLabel>Madison&#44; James</skos:prefLabel>
+<skos:DSC>4th President of the United States&#44; 1809-1817.</skos:DSC>
+<skos:DT>1751-1836</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-23</skos:INP>
+<skos:APP>2009-02-23</skos:APP>
+<skos:UPD>2009-02-23</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Major%2C%20John">
+<skos:prefLabel>Major&#44; John</skos:prefLabel>
+<skos:DSC>British Conservative politician&#59; British Prime&#13;&#10;Minister 1990-1997.</skos:DSC>
+<skos:DT>b.1943-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Mandela%2C%20Nelson">
+<skos:prefLabel>Mandela&#44; Nelson</skos:prefLabel>
+<skos:DSC>South African black civil rights leader&#59;&#13;&#10;anti-apartheid activist&amp;&#35;59&#59; politician&amp;&#35;59&#59; President of&#13;&#10;South Africa 1994-1999.</skos:DSC>
+<skos:DT>b.1918-</skos:DT>
+<skos:NV>Nelson Rolihlahla Mandela</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Mao%20Tse-Tung">
+<skos:altLabel>Mao Tse-Tung</skos:altLabel>
+<skos:prefLabel>Mao Zedong</skos:prefLabel>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Mao%20Zedong">
+<skos:prefLabel>Mao Zedong</skos:prefLabel>
+<skos:DSC>Chinese Communist politician and revolutionary&#59;&#13;&#10;founder of Communist China&amp;&#35;59&#59; head of government of&#13;&#10;China 1959-1976.</skos:DSC>
+<skos:DT>1893-1976</skos:DT>
+<skos:NV>Mao Tse-tung&#44; Chairman Mao</skos:NV>
+<skos:altLabel>Mao Tse-Tung</skos:altLabel>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Marcos%2C%20Ferdinand">
+<skos:prefLabel>Marcos&#44; Ferdinand</skos:prefLabel>
+<skos:DSC>Philippine dictator and politician&#59; president of&#13;&#10;the Philippines 1965-1986&amp;&#35;59&#59; fled Philippines and&#13;&#10;sought asylum in the US 1986.</skos:DSC>
+<skos:DT>1917-1989</skos:DT>
+<skos:NV>Ferdinand Edralin Marcos</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Marshall%2C%20Thurgood">
+<skos:prefLabel>Marshall&#44; Thurgood</skos:prefLabel>
+<skos:DSC>US jurist&#59; United States Supreme Court Justice&#13;&#10;1967-1991.</skos:DSC>
+<skos:DT>1908-1993</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Mbeki%2C%20Thabo">
+<skos:prefLabel>Mbeki&#44; Thabo</skos:prefLabel>
+<skos:DSC>President of South Africa 1999- .</skos:DSC>
+<skos:DT>b.1942-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#McCain%2C%20John">
+<skos:prefLabel>McCain&#44; John</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; United States Senator&#13;&#10;from Arizona 1987- &amp;&#35;59&#59; candidate for Republican&#13;&#10;presidential nomination 2000.</skos:DSC>
+<skos:DT>b.1936-</skos:DT>
+<skos:NV>John Sidney McCain&#44; III</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#McCarthy%2C%20Eugene">
+<skos:prefLabel>McCarthy&#44; Eugene</skos:prefLabel>
+<skos:DSC>US Democratic politician&#59; United States&#13;&#10;Representative from Minnesota 1949-1959&amp;&#35;59&#59; United&#13;&#10;States Senator from Minnesota 1959-1971&amp;&#35;59&#59; prominent&#13;&#10;opponent of US involvement in Vietnam War&amp;&#35;59&#59;&#13;&#10;candidate for Democratic presidential nomination&#13;&#10;1968&amp;&#35;44&#59; 1972&amp;&#35;59&#59; Independent presidential candidate&#13;&#10;1976.</skos:DSC>
+<skos:DT>b.1916-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#McCarthy%2C%20Joseph">
+<skos:prefLabel>McCarthy&#44; Joseph</skos:prefLabel>
+<skos:DSC>United States Senator from Wisconsin 1947-1957&#59;&#13;&#10;anti-communist activist&amp;&#35;59&#59; attacked alleged&#13;&#10;Communists in Federal government&amp;&#35;59&#59; televised&#13;&#10;McCarthy hearings resulted in his being publically&#13;&#10;discredited and censored by the Senate.</skos:DSC>
+<skos:DT>1909-1957</skos:DT>
+<skos:NV>Joseph Raymond McCarthy&#59; Tailgunner Joe</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#McFarlane%2C%20Robert">
+<skos:prefLabel>McFarlane&#44; Robert</skos:prefLabel>
+<skos:DSC>US administrator&#44; and Marine Corps Officer&#59;&#13;&#10;national security advisor 1983-1985&amp;&#35;59&#59; pleaded&#13;&#10;guilty to four misdemeanor charges resulting from&#13;&#10;Iran Contra scandal&amp;&#35;59&#59; pardoned by President Bush&#13;&#10;1988.</skos:DSC>
+<skos:DT>b.1937-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#McKinley%2C%20William">
+<skos:prefLabel>McKinley&#44; William</skos:prefLabel>
+<skos:DSC>25th President of the United States&#44; 1896-1901.</skos:DSC>
+<skos:DT>1843-1901</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-23</skos:INP>
+<skos:APP>2009-02-23</skos:APP>
+<skos:UPD>2009-02-23</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#McVeigh%2C%20Timothy">
+<skos:prefLabel>McVeigh&#44; Timothy</skos:prefLabel>
+<skos:DSC>Convicted co-conspirator in Oklahoma City bombing&#13;&#10;&amp;&#35;40&#59;1995&amp;&#35;41&#59;&amp;&#35;59&#59; executed in 2001.</skos:DSC>
+<skos:DT>1968-2001</skos:DT>
+<skos:NV>Timothy James McVeigh</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Meese%2C%20Edwin">
+<skos:prefLabel>Meese&#44; Edwin</skos:prefLabel>
+<skos:DSC>US lawyer and Republican politician&#59; United States&#13;&#10;Attorney General 1985-1988.</skos:DSC>
+<skos:DT>b.1931-</skos:DT>
+<skos:NV>Ed Meese&#44; Edwin Meese III</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Meir%2C%20Golda">
+<skos:prefLabel>Meir&#44; Golda</skos:prefLabel>
+<skos:DSC>Israeli Prime Minister 1969-1974.</skos:DSC>
+<skos:DT>1898-1978</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-08-22</skos:INP>
+<skos:APP>2008-08-22</skos:APP>
+<skos:UPD>2008-08-22</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Mikulski%2C%20Barbara">
+<skos:prefLabel>Mikulski&#44; Barbara</skos:prefLabel>
+<skos:DSC>US Democratic politician&#59; United States&#13;&#10;Representative from Maryland 1977-1987&amp;&#35;59&#59; United&#13;&#10;States Senator from Maryland 1987- .</skos:DSC>
+<skos:DT>b.1936-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Milosevic%2C%20Slobodan">
+<skos:prefLabel>Milosevic&#44; Slobodan</skos:prefLabel>
+<skos:DSC>Serbian Yugoslavian dictator&#44; politician&#59;&#13;&#10;President of Serbia 1989-1997&amp;&#35;59&#59; President of&#13;&#10;Yugoslavia 1997-2000&amp;&#35;59&#59; indicted by Hague tribunal&#13;&#10;for crimes against humanity 1999&amp;&#35;59&#59; conceded defeat&#13;&#10;in 2000 Presidential elections.</skos:DSC>
+<skos:DT>b.1941-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Mkapa%2C%20Benjamin">
+<skos:prefLabel>Mkapa&#44; Benjamin</skos:prefLabel>
+<skos:DSC>President of Tanzania 1995-  .</skos:DSC>
+<skos:DT>b.1938-</skos:DT>
+<skos:NV>Benjamin William Mkapa&#44; Benjamin W. Mkapa</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-08-22</skos:INP>
+<skos:APP>2008-08-22</skos:APP>
+<skos:UPD>2008-08-22</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Mogae%2C%20Festus">
+<skos:prefLabel>Mogae&#44; Festus</skos:prefLabel>
+<skos:DSC>President of Botswana 1998-2008.</skos:DSC>
+<skos:DT>b.1939-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-10-23</skos:INP>
+<skos:APP>2008-10-23</skos:APP>
+<skos:UPD>2008-10-23</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Mondale%2C%20Walter">
+<skos:prefLabel>Mondale&#44; Walter</skos:prefLabel>
+<skos:DSC>US Democratic politician&#59; United States Senator&#13;&#10;from Minnesota 1964-1977&amp;&#35;59&#59; Vice-President of the&#13;&#10;United States 1977-1981&amp;&#35;59&#59; Democratic&#13;&#10;vice-presidential candidate 1980&amp;&#35;59&#59; Democratic&#13;&#10;presidential candidate 1984&amp;&#35;59&#59; United States&#13;&#10;Ambassador to Japan 1993-1997.</skos:DSC>
+<skos:DT>b.1928-</skos:DT>
+<skos:NV>Walter Frederick Mondale&#44; Fritz Mondale</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Monroe%2C%20James">
+<skos:prefLabel>Monroe&#44; James</skos:prefLabel>
+<skos:DSC>5th President of the United States&#44; 1817-1825.</skos:DSC>
+<skos:DT>1758-1831</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-23</skos:INP>
+<skos:APP>2009-02-23</skos:APP>
+<skos:UPD>2009-02-23</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Moseley-Braun%2C%20Carol">
+<skos:prefLabel>Moseley-Braun&#44; Carol</skos:prefLabel>
+<skos:DSC>First African American woman elected to the U.S.&#13;&#10;Senate&amp;&#35;44&#59; 1992-1998&amp;&#35;59&#59; ran unsuccessfully for the&#13;&#10;Democratic Party nomination for the 2004&#13;&#10;presidential election.</skos:DSC>
+<skos:DT>b.1947-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Mosisil%2C%20Pakalitha">
+<skos:prefLabel>Mosisil&#44; Pakalitha</skos:prefLabel>
+<skos:DSC>Prime Minister of Lesotho&#44; 1998- .</skos:DSC>
+<skos:DT>b.1945-</skos:DT>
+<skos:NV>Bethuel Pakalitha Mosisil</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-03-27</skos:INP>
+<skos:APP>2009-03-27</skos:APP>
+<skos:UPD>2009-03-27</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Moynihan%2C%20Daniel%20Patrick">
+<skos:prefLabel>Moynihan&#44; Daniel Patrick</skos:prefLabel>
+<skos:DSC>US diplomat&#44; Democratic politician&#44; and political&#13;&#10;scientist&amp;&#35;59&#59; United States Ambassador to India&#13;&#10;1973-1975&amp;&#35;59&#59; United States Ambassador to the United&#13;&#10;Nations 1975-1976&amp;&#35;59&#59; United States Senator from New&#13;&#10;York 1976-2001.</skos:DSC>
+<skos:DT>b.1927-2003</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Mubarak%2C%20Hosni">
+<skos:prefLabel>Mubarak&#44; Hosni</skos:prefLabel>
+<skos:DSC>President of Egypt 1981-2011.</skos:DSC>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2013-10-03</skos:INP>
+<skos:APP>2013-10-03</skos:APP>
+<skos:UPD>2013-10-03</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Mugabe%2C%20Robert">
+<skos:prefLabel>Mugabe&#44; Robert</skos:prefLabel>
+<skos:DSC>President of Zimbabwe 1987-  .</skos:DSC>
+<skos:DT>b.1924-</skos:DT>
+<skos:NV>Robert Gabriel Mugabe</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-08-22</skos:INP>
+<skos:APP>2008-08-22</skos:APP>
+<skos:UPD>2008-08-22</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Mulroney%2C%20Brian">
+<skos:prefLabel>Mulroney&#44; Brian</skos:prefLabel>
+<skos:DSC>Canadian Progressive Conservative politician&#59;&#13;&#10;Prime Minister of Canada 1984-1993.</skos:DSC>
+<skos:DT>b.1939-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Museveni%2C%20Yoweri">
+<skos:prefLabel>Museveni&#44; Yoweri</skos:prefLabel>
+<skos:DSC>President of Uganda 1986- .</skos:DSC>
+<skos:DT>b.1945-</skos:DT>
+<skos:NV>Yoweri Kaguta Museveni</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-04-11</skos:INP>
+<skos:APP>2008-04-11</skos:APP>
+<skos:UPD>2008-04-11</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Mwanawasa%2C%20Levy">
+<skos:prefLabel>Mwanawasa&#44; Levy</skos:prefLabel>
+<skos:DSC>President of Zambia&#44; 2001-2008.</skos:DSC>
+<skos:DT>1948-2008</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-12-16</skos:INP>
+<skos:APP>2008-12-16</skos:APP>
+<skos:UPD>2008-12-16</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Nader%2C%20Ralph">
+<skos:prefLabel>Nader&#44; Ralph</skos:prefLabel>
+<skos:DSC>Consumers advocate&#59; United States Green Party&#13;&#10;presidential candidate 1996&amp;&#35;44&#59; 2000.</skos:DSC>
+<skos:DT>b.1934-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Nasser%2C%20Gamal%20Abdel">
+<skos:prefLabel>Nasser&#44; Gamal Abdel</skos:prefLabel>
+<skos:DSC>Egyptian stateman and politician&#59; President of&#13;&#10;Egypt 1956-1958&amp;&#35;59&#59; founded United Arab Republic&#13;&#10;&amp;&#35;40&#59;1958&amp;&#35;41&#59;&amp;&#35;44&#59; was President 1958-1970.</skos:DSC>
+<skos:DT>1918-1970</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Netanyahu%2C%20Benjamin">
+<skos:prefLabel>Netanyahu&#44; Benjamin</skos:prefLabel>
+<skos:DSC>Israeli diplomat and politician&#59; Prime Minister of&#13;&#10;Israel 1996-1999.</skos:DSC>
+<skos:DT>b.1949-</skos:DT>
+<skos:NV>Bibi Netanyahu</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Nichols%2C%20Terry">
+<skos:prefLabel>Nichols&#44; Terry</skos:prefLabel>
+<skos:DSC>Convicted co-conspirator in Oklahoma City bombing&#13;&#10;&amp;&#35;40&#59;1995&amp;&#35;41&#59;.</skos:DSC>
+<skos:DT>b. 1955-</skos:DT>
+<skos:NV>Terry Lynn Nichols</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Nixon%2C%20Richard">
+<skos:prefLabel>Nixon&#44; Richard</skos:prefLabel>
+<skos:DSC>37th President of the United States 1969-1974&#59;&#13;&#10;resigned midway through second term because of&#13;&#10;Watergate scandal 1974.</skos:DSC>
+<skos:DT>1913-1994</skos:DT>
+<skos:NV>Richard Milhous Nixon&#44; Richard M. Nixon&#44; Tricky&#13;&#10;Dick</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Noriega%2C%20Manuel">
+<skos:prefLabel>Noriega&#44; Manuel</skos:prefLabel>
+<skos:DSC>Panamanian general and politician&#59; defacto head of&#13;&#10;government of Panama 1983-1989&amp;&#35;59&#59; ousted 1989 by&#13;&#10;United States invasion&amp;&#35;59&#59; extradicted to US&amp;&#35;44&#59; tried&#13;&#10;and convicted of money laundering and drug&#13;&#10;trafficking 1992.</skos:DSC>
+<skos:DT>b.1940-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#North%2C%20Oliver">
+<skos:prefLabel>North&#44; Oliver</skos:prefLabel>
+<skos:DSC>United States Marine Corps Officer&#59; involved in&#13;&#10;Iran-Contra scandal&amp;&#35;59&#59; Republican politician and&#13;&#10;commentator.</skos:DSC>
+<skos:DT>b.1943-</skos:DT>
+<skos:NV>Oliver Lawrence North&#59; Ollie North</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Nujoma%2C%20Samuel%20Shafiihuma">
+<skos:prefLabel>Nujoma&#44; Samuel Shafiihuma</skos:prefLabel>
+<skos:DSC>President of Namibia&#44; 1990-  .</skos:DSC>
+<skos:DT>b.1929-</skos:DT>
+<skos:NV>Shafiihuma Nujoma</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-12-04</skos:INP>
+<skos:APP>2008-12-04</skos:APP>
+<skos:UPD>2008-12-04</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Obama%2C%20Barack">
+<skos:prefLabel>Obama&#44; Barack</skos:prefLabel>
+<skos:DSC>US Democratic politician&#59; United States Senator from Illinois 2004- 2008&#59; 44th President of the United States&#44; 2009- .</skos:DSC>
+<skos:DT>b.1961-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-09-03</skos:INP>
+<skos:APP>2008-09-03</skos:APP>
+<skos:UPD>2009-01-19</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Obama%2C%20Michelle">
+<skos:prefLabel>Obama&#44; Michelle</skos:prefLabel>
+<skos:DSC>Lawyer&#44; wife of President Barack Obama.</skos:DSC>
+<skos:DT>b.1964-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-08-26</skos:INP>
+<skos:APP>2009-08-26</skos:APP>
+<skos:UPD>2009-08-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Obasanjo%2C%20Olusegun">
+<skos:prefLabel>Obasanjo&#44; Olusegun</skos:prefLabel>
+<skos:DSC>President of Nigeria 1976-1979&#44; 1999-  .</skos:DSC>
+<skos:DT>b.1937-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-08-22</skos:INP>
+<skos:APP>2008-08-22</skos:APP>
+<skos:UPD>2008-08-22</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#O%27Connor%2C%20Sandra%20Day">
+<skos:prefLabel>O&#39;Connor&#44; Sandra Day</skos:prefLabel>
+<skos:DSC>American Supreme Court justice&#44; 1981-2006.</skos:DSC>
+<skos:DT>b.1930-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Olmert%2C%20Ehud">
+<skos:prefLabel>Olmert&#44; Ehud</skos:prefLabel>
+<skos:DSC>Israeli politician&#59; Prime Minister of Israel 2006- .</skos:DSC>
+<skos:DT>b.1945-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2007-07-11</skos:INP>
+<skos:APP>2007-07-11</skos:APP>
+<skos:UPD>2007-07-11</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#O%27Malley%2C%20Martin">
+<skos:prefLabel>O&#39;Malley&#44; Martin</skos:prefLabel>
+<skos:DSC>US Democratic Mayor of Baltimore&#44; Maryland 1999-2007&#59; Governor of Mayland 2007- .</skos:DSC>
+<skos:DT>b.1963-</skos:DT>
+<skos:NV>Martin J. O&#39;Malley</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-10-23</skos:INP>
+<skos:APP>2008-10-23</skos:APP>
+<skos:UPD>2009-06-04</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Packwood%2C%20Robert">
+<skos:prefLabel>Packwood&#44; Robert</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; United States Senator&#13;&#10;from Oregon 1969-1995&amp;&#35;59&#59; resigned from Senate under&#13;&#10;threat of expulsion for sexual harassment&amp;&#35;44&#59;&#13;&#10;evidence tampering&amp;&#35;44&#59; and abuse of power.</skos:DSC>
+<skos:DT>b.1932-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Palin%2C%20Sarah">
+<skos:prefLabel>Palin&#44; Sarah</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; Governor of Alaska 2006-2009&#59; vice presidential candidate in 2008 elections.</skos:DSC>
+<skos:DT>b.1964-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2011-09-08</skos:INP>
+<skos:APP>2011-09-08</skos:APP>
+<skos:UPD>2011-09-08</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Pataki%2C%20George">
+<skos:prefLabel>Pataki&#44; George</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; Governor of New York&#13;&#10;1995- .</skos:DSC>
+<skos:DT>b.1945-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Paul%2C%20Ron">
+<skos:prefLabel>Paul&#44; Ron</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; United States Representative from Texas&#44; 1976-1984&#44; 1996- .</skos:DSC>
+<skos:DT>b.1935-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-06</skos:INP>
+<skos:APP>2009-02-06</skos:APP>
+<skos:UPD>2009-02-06</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Pelosi%2C%20Nancy">
+<skos:prefLabel>Pelosi&#44; Nancy</skos:prefLabel>
+<skos:DSC>US Democratic politician&#59; United States Representative from California 1987- &#59; Speaker of the House 2006- .</skos:DSC>
+<skos:DT>b.1940-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-09-03</skos:INP>
+<skos:APP>2008-09-03</skos:APP>
+<skos:UPD>2008-09-03</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Peres%2C%20Shimon">
+<skos:prefLabel>Peres&#44; Shimon</skos:prefLabel>
+<skos:DSC>Israeli politician&#59; Prime Minister of Israel&#13;&#10;1984-1986&amp;&#35;44&#59; 1995-1996&amp;&#35;59&#59; Nobel Peace Prize 1994.</skos:DSC>
+<skos:DT>b.1923-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Perot%2C%20H.%20Ross">
+<skos:altLabel>Perot&#44; H. Ross</skos:altLabel>
+<skos:prefLabel>Perot&#44; Ross</skos:prefLabel>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Perot%2C%20Ross">
+<skos:prefLabel>Perot&#44; Ross</skos:prefLabel>
+<skos:DSC>US businessman and politician&#59; founded Electronic&#13;&#10;Data Systems &amp;&#35;40&#59;EDS&amp;&#35;41&#59; 1962&amp;&#35;44&#59; sold to General Motors&#13;&#10;1984&amp;&#35;59&#59; Independent presidential candidate 1992&amp;&#35;59&#59;&#13;&#10;Reform Party presidential candidate 1996.</skos:DSC>
+<skos:DT>b.1930-</skos:DT>
+<skos:NV>Henry Ross Perot</skos:NV>
+<skos:altLabel>Perot&#44; H. Ross</skos:altLabel>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Perry%2C%20Rick">
+<skos:prefLabel>Perry&#44; Rick</skos:prefLabel>
+<skos:DSC>US governor of Texas&#44; 2000-  &#59; a candidate for the 2012 US Republican Party presidential nomination.</skos:DSC>
+<skos:DT>b.1950-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2012-12-10</skos:INP>
+<skos:APP>2012-12-10</skos:APP>
+<skos:UPD>2012-12-10</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Pierce%2C%20Franklin">
+<skos:prefLabel>Pierce&#44; Franklin</skos:prefLabel>
+<skos:DSC>14th President of the United States&#44; 1853-1857.</skos:DSC>
+<skos:DT>1804-1869</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-23</skos:INP>
+<skos:APP>2009-02-23</skos:APP>
+<skos:UPD>2009-02-23</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Pires%2C%20Pedro%20Verona">
+<skos:prefLabel>Pires&#44; Pedro Verona</skos:prefLabel>
+<skos:DSC>President of Cape Verde 2001- .</skos:DSC>
+<skos:DT>b.1934-</skos:DT>
+<skos:NV>Pedro Verona Rodrigues Pires</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-10-23</skos:INP>
+<skos:APP>2008-10-23</skos:APP>
+<skos:UPD>2008-10-23</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Plame%2C%20Valerie">
+<skos:prefLabel>Plame&#44; Valerie</skos:prefLabel>
+<skos:DSC>US intelligence officer&#59; CIA officer 1985-2005&#59; publicly identified as a CIA operative in 2003&#44; leading to a probe of possible involvement of federal officials in disclosing Plame&#39;s identity to reporters&#59; married to Joseph Wilson.</skos:DSC>
+<skos:DT>b.1963-</skos:DT>
+<skos:NV>Valerie Wilson</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-11-06</skos:INP>
+<skos:APP>2006-11-06</skos:APP>
+<skos:UPD>2006-11-06</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Poindexter%2C%20John">
+<skos:prefLabel>Poindexter&#44; John</skos:prefLabel>
+<skos:DSC>US Admiral&#59; National Security Advisor 1985-1986&#59;&#13;&#10;acquitted in Iran Contra scandal.</skos:DSC>
+<skos:DT>b.1936-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Polk%2C%20James">
+<skos:prefLabel>Polk&#44; James</skos:prefLabel>
+<skos:DSC>11th President of the United States&#44; 1845-1849.</skos:DSC>
+<skos:DT>1795-1849</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-23</skos:INP>
+<skos:APP>2009-02-23</skos:APP>
+<skos:UPD>2009-02-23</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Pollard%2C%20Jonathan">
+<skos:prefLabel>Pollard&#44; Jonathan</skos:prefLabel>
+<skos:DSC>US spy&#44; passed military secrets to Israel&#13;&#10;1984-1985&amp;&#35;59&#59; arrested for espionage 1985&amp;&#35;44&#59; convicted&#13;&#10;1986&amp;&#35;44&#59; sentenced to life imprisonment 1987.</skos:DSC>
+<skos:DT>b.1954-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Pope%20Benedict%20XVI">
+<skos:prefLabel>Pope Benedict XVI</skos:prefLabel>
+<skos:DSC>Head of the Roman Catholic Church 2005- .</skos:DSC>
+<skos:DT>b.1927-</skos:DT>
+<skos:NV>Joseph Ratzinger &#40;given name&#41;</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-11-10</skos:INP>
+<skos:APP>2006-11-10</skos:APP>
+<skos:UPD>2006-11-10</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Pope%20John%20Paul%20II">
+<skos:prefLabel>Pope John Paul II</skos:prefLabel>
+<skos:DSC>Head of the Roman Catholic Church 1978- .</skos:DSC>
+<skos:DT>b.1920-</skos:DT>
+<skos:NV>Karol Jozef Wojtyla &#40;given name&#41;</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-11-10</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Powderly%2C%20Terence%20Vincent">
+<skos:prefLabel>Powderly&#44; Terence Vincent</skos:prefLabel>
+<skos:DSC>American labor leader&#59; joined the Knights of Labor&#13;&#10;in 1874 and became instrumental in establishing&#13;&#10;labor bureaus and public arbitration systems in&#13;&#10;many states.</skos:DSC>
+<skos:DT>1849-1924</skos:DT>
+<skos:NV>Terence V. Powderly</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Powell%2C%20Colin">
+<skos:prefLabel>Powell&#44; Colin</skos:prefLabel>
+<skos:DSC>United States National Security Advisor 1984-1989&#59;&#13;&#10;Chairman of the Joint Chiefs of Staff 1989-1993 &amp;&#35;59&#59;&#13;&#10;oversaw US-Allied victory in Gulf War 1991&amp;&#35;59&#59; United&#13;&#10;States Secretary of State 2000-2005.</skos:DSC>
+<skos:DT>b.1937-</skos:DT>
+<skos:NV>Colin Luther Powell.</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2007-07-11</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Presley%2C%20Elvis">
+<skos:prefLabel>Presley&#44; Elvis</skos:prefLabel>
+<skos:DSC>American entertainer.</skos:DSC>
+<skos:DT>1935-1977</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Quayle%2C%20Dan">
+<skos:prefLabel>Quayle&#44; Dan</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; United States&#13;&#10;Representative from Indiana 1977-1981&amp;&#35;59&#59; United&#13;&#10;States Senator from Indiana 1981-1989&amp;&#35;59&#59; Vice&#13;&#10;President of the United States 1988-1992&amp;&#35;59&#59;&#13;&#10;Republican vice-presidential candidate 1992&amp;&#35;59&#59;&#13;&#10;candidate for Republican presidential nomination&#13;&#10;2000.</skos:DSC>
+<skos:DT>b.1947-</skos:DT>
+<skos:NV>J. Danforth Quayle</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Rabin%2C%20Yitzhak">
+<skos:prefLabel>Rabin&#44; Yitzhak</skos:prefLabel>
+<skos:DSC>Israeli diplomat and politician&#59; Prime Minister of&#13;&#10;Israel 1974-1977&amp;&#35;44&#59; 1992-1995&amp;&#35;59&#59; assassinated 1995.</skos:DSC>
+<skos:DT>1922-1995</skos:DT>
+<skos:NV>Itzhak Rabin</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Ravalomanana%2C%20Marc">
+<skos:prefLabel>Ravalomanana&#44; Marc</skos:prefLabel>
+<skos:DSC>President of Madagascar 2002-  .</skos:DSC>
+<skos:DT>b.1950-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-12-03</skos:INP>
+<skos:APP>2008-12-03</skos:APP>
+<skos:UPD>2008-12-03</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Reagan%2C%20Ronald">
+<skos:prefLabel>Reagan&#44; Ronald</skos:prefLabel>
+<skos:DSC>US Film actor and Republican politician&#59; Governor&#13;&#10;of California 1966-1974&amp;&#35;59&#59; 40th President of the&#13;&#10;United States 1981-1989.</skos:DSC>
+<skos:DT>b.1911-2004</skos:DT>
+<skos:NV>Ronald Wilson Reagan</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Rehnquist%2C%20William">
+<skos:prefLabel>Rehnquist&#44; William</skos:prefLabel>
+<skos:DSC>US jurist&#59; Chief Justice&#44; United States Supreme&#13;&#10;Court 1986- .</skos:DSC>
+<skos:DT>b.1924-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Reid%2C%20Harry">
+<skos:prefLabel>Reid&#44; Harry</skos:prefLabel>
+<skos:DSC>US Democratic politician&#59; United States Senator from Nevada 1986- &#59; Senate Majority Leader 2007- .</skos:DSC>
+<skos:DT>b.1940-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-09-03</skos:INP>
+<skos:APP>2008-09-03</skos:APP>
+<skos:UPD>2008-09-03</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Reno%2C%20Janet">
+<skos:prefLabel>Reno&#44; Janet</skos:prefLabel>
+<skos:DSC>United States Attorney General 1993-2001&#59; ordered&#13;&#10;FBI assault on Branch Davidian compound 1993.</skos:DSC>
+<skos:DT>b.1938-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Rice%2C%20Condoleezza">
+<skos:prefLabel>Rice&#44; Condoleezza</skos:prefLabel>
+<skos:DSC>United States National Security Advisor 2001-2005&#59; United States Secretary of State 2005-2008.</skos:DSC>
+<skos:DT>b. 1954-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2007-07-11</skos:INP>
+<skos:APP>2007-07-11</skos:APP>
+<skos:UPD>2009-09-30</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Richardson%2C%20Bill">
+<skos:prefLabel>Richardson&#44; Bill</skos:prefLabel>
+<skos:DSC>US Democratic politician&#59; United States Representative from New Mexico&#44; 1982-1996&#59; Governor of New Mexico&#44; 2002- .</skos:DSC>
+<skos:DT>b.1947-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-06</skos:INP>
+<skos:APP>2009-02-06</skos:APP>
+<skos:UPD>2009-02-06</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Roberts%2C%20John%20G.">
+<skos:prefLabel>Roberts&#44; John G.</skos:prefLabel>
+<skos:DSC>American Supreme Court justice&#44; 2005- .</skos:DSC>
+<skos:DT>b.1955-</skos:DT>
+<skos:NV>John G. Roberts&#44; Jr.</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2007-02-02</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Robertson%2C%20Pat">
+<skos:prefLabel>Robertson&#44; Pat</skos:prefLabel>
+<skos:DSC>Christian evangelist&#59; conservative commentator&#59;&#13;&#10;candidate for Republican presidential nomination&#13;&#10;1988&amp;&#35;59&#59; founder of Christian Coalition.</skos:DSC>
+<skos:DT>b.1930-</skos:DT>
+<skos:NV>Marion Gordon Pat Robertson</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Robinson%2C%20Jackie">
+<skos:prefLabel>Robinson&#44; Jackie</skos:prefLabel>
+<skos:DSC>US baseball player&#59; first African American player&#13;&#10;in major leagues in 20th century.</skos:DSC>
+<skos:DT>1919-1972</skos:DT>
+<skos:NV>John Roosevelt Robinson</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Romney%2C%20Mitt">
+<skos:prefLabel>Romney&#44; Mitt</skos:prefLabel>
+<skos:DSC>U.S. investment banker and republican politician&#44; Governor of Massachusetts 2003-2007.</skos:DSC>
+<skos:DT>b.1947-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-08-22</skos:INP>
+<skos:APP>2008-08-22</skos:APP>
+<skos:UPD>2009-01-12</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Roosevelt%2C%20Franklin%20D.">
+<skos:prefLabel>Roosevelt&#44; Franklin D.</skos:prefLabel>
+<skos:DSC>32nd President of the United States&#44; 1933-1945.</skos:DSC>
+<skos:DT>1882-1945</skos:DT>
+<skos:NV>Franklin Delano Roosevelt&#59; FDR</skos:NV>
+<skos:altLabel>FDR</skos:altLabel>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Roosevelt%2C%20Theodore">
+<skos:prefLabel>Roosevelt&#44; Theodore</skos:prefLabel>
+<skos:DSC>26th President of the United States&#44; 1901-1909.</skos:DSC>
+<skos:DT>1858-1919</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-23</skos:INP>
+<skos:APP>2009-02-23</skos:APP>
+<skos:UPD>2009-02-23</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Rove%2C%20Karl">
+<skos:prefLabel>Rove&#44; Karl</skos:prefLabel>
+<skos:DSC>US Republican political strategist&#59; senior advisor to President George W. Bush 2000-2005&#59; White House deputy chief of staff for policy 2005- .</skos:DSC>
+<skos:DT>b.1950-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-11-06</skos:INP>
+<skos:APP>2006-11-06</skos:APP>
+<skos:UPD>2006-11-06</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Rumsfeld%2C%20Donald">
+<skos:prefLabel>Rumsfeld&#44; Donald</skos:prefLabel>
+<skos:DSC>United States Secretary of Defense&#44; 2001-2006.</skos:DSC>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-01-03</skos:INP>
+<skos:APP>2008-01-03</skos:APP>
+<skos:UPD>2008-01-03</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Ryan%2C%20Paul">
+<skos:prefLabel>Ryan&#44; Paul</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; US Representative for Wisconsin&#59; Republican party nominee for Vice President in 2012.</skos:DSC>
+<skos:DT>b.1970 -</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2013-07-15</skos:INP>
+<skos:APP>2013-07-15</skos:APP>
+<skos:UPD>2013-07-15</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Sadat%2C%20Anwar">
+<skos:prefLabel>Sadat&#44; Anwar</skos:prefLabel>
+<skos:DSC>Egyptian politician&#59; President of Egypt 1970-1981&#59;&#13;&#10;promoted peace with Israel&amp;&#35;59&#59; assassinated 1981.</skos:DSC>
+<skos:DT>1918-1981</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Santorum%2C%20Rick">
+<skos:prefLabel>Santorum&#44; Rick</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; United States Senator from Pennsylvania&#44; 1995-2007&#59; unsuccessful candidate for Republican nomination in the 2012 presidential election.</skos:DSC>
+<skos:DT>b.1958-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2012-05-31</skos:INP>
+<skos:APP>2012-05-31</skos:APP>
+<skos:UPD>2012-05-31</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Schiavo%2C%20Terri">
+<skos:prefLabel>Schiavo&#44; Terri</skos:prefLabel>
+<skos:DSC>Having existed in a persistent vegetative state&#13;&#10;for 15 years&amp;&#35;44&#59; became the center of a right-to-die&#13;&#10;legal dispute between her husband and her parents.</skos:DSC>
+<skos:DT>1963-2005</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Schroeder%2C%20Gerhard">
+<skos:prefLabel>Schroeder&#44; Gerhard</skos:prefLabel>
+<skos:DSC>German lawyer and Social Democratic politician&#59;&#13;&#10;Chancellor of Germany 1998- .</skos:DSC>
+<skos:DT>b.1944-</skos:DT>
+<skos:NV>Gerhard Shroder</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Schumer%2C%20Charles">
+<skos:prefLabel>Schumer&#44; Charles</skos:prefLabel>
+<skos:DSC>US Democratic politician&#59; United States&#13;&#10;Representative from New York 1981-1999&amp;&#35;59&#59; United&#13;&#10;States Senator from New York 1999- .</skos:DSC>
+<skos:DT>b.1950-</skos:DT>
+<skos:NV>Chuck Schumer</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Schwarzenegger%2C%20Arnold">
+<skos:prefLabel>Schwarzenegger&#44; Arnold</skos:prefLabel>
+<skos:DSC>Actor&#59; Republican Governor of California 2003- .</skos:DSC>
+<skos:DT>b. 1947-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2007-07-11</skos:INP>
+<skos:APP>2007-07-11</skos:APP>
+<skos:UPD>2007-07-11</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Schwarzkopf%2C%20Norman">
+<skos:prefLabel>Schwarzkopf&#44; Norman</skos:prefLabel>
+<skos:DSC>US general and war hero&#59; led US-Allied forces in&#13;&#10;Gulf War.</skos:DSC>
+<skos:DT>b.1934-</skos:DT>
+<skos:NV>Norman H. Schwarzkopf&#44; Stormin&#39; Norman</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Shamir%2C%20Yitzhak">
+<skos:prefLabel>Shamir&#44; Yitzhak</skos:prefLabel>
+<skos:DSC>Israeli politician&#59; Prime Minister of Israel&#13;&#10;1983-1984&amp;&#35;44&#59; 1986-1992.</skos:DSC>
+<skos:DT>b.1914-</skos:DT>
+<skos:NV>Itzhak Shamir</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Sharon%2C%20Ariel">
+<skos:prefLabel>Sharon&#44; Ariel</skos:prefLabel>
+<skos:DSC>Israeli general and politician&#59; Israeli Defense&#13;&#10;Minister 1981-1983&amp;&#35;59&#59; Prime Minister of Israel 2001-2006.&#13;&#10;.</skos:DSC>
+<skos:DT>b.1928-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2009-09-30</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Sharpton%2C%20Al">
+<skos:prefLabel>Sharpton&#44; Al</skos:prefLabel>
+<skos:DSC>US Baptist clergyman and black activist&#59; candidate&#13;&#10;for Democratic presidential nomination 2004.</skos:DSC>
+<skos:DT>b.1954-</skos:DT>
+<skos:NV>Alfred Charles Sharpton&#44; Jr.</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Sheehan%2C%20Cindy">
+<skos:prefLabel>Sheehan&#44; Cindy</skos:prefLabel>
+<skos:DSC>American peace activist&#59; opposed the war in Iraq.</skos:DSC>
+<skos:DT>b.1957-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Shultz%2C%20George">
+<skos:prefLabel>Shultz&#44; George</skos:prefLabel>
+<skos:DSC>US administrator&#44; businessman&#44; Republican&#13;&#10;politician&amp;&#35;59&#59; Secretary of State 1982-1986.</skos:DSC>
+<skos:DT>b.1920-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Simpson%2C%20O.%20J.">
+<skos:prefLabel>Simpson&#44; O. J.</skos:prefLabel>
+<skos:DSC>US football player&#44; movie actor&#44; and accused&#13;&#10;murderer&amp;&#35;59&#59; played for Buffalo Bills 1969-1978&amp;&#35;59&#59;&#13;&#10;tried and acquitted for 1994 murders of Nicole&#13;&#10;Brown Simpson and Ron Goldberg 1994-1995.</skos:DSC>
+<skos:DT>b.1947-</skos:DT>
+<skos:NV>Orenthal James Simpson</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Souter%2C%20David">
+<skos:prefLabel>Souter&#44; David</skos:prefLabel>
+<skos:DSC>US jurist&#59; United States Supreme Court Justice&#13;&#10;1990- .</skos:DSC>
+<skos:DT>b.1939-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Stalin%2C%20Joseph">
+<skos:prefLabel>Stalin&#44; Joseph</skos:prefLabel>
+<skos:DSC>Soviet political leader&#59; established self as&#13;&#10;dictator 1924.</skos:DSC>
+<skos:DT>1879-1953</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Starr%2C%20Kenneth">
+<skos:prefLabel>Starr&#44; Kenneth</skos:prefLabel>
+<skos:DSC>US judge and lawyer&#59; Special Prosecutor during&#13;&#10;investigation of the Lewinsky scandal&amp;&#35;44&#59; leading to&#13;&#10;impeachment proceedings against President Clinton.</skos:DSC>
+<skos:DT>b.1946-</skos:DT>
+<skos:NV>Ken Starr</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Steinem%2C%20Gloria">
+<skos:prefLabel>Steinem&#44; Gloria</skos:prefLabel>
+<skos:DSC>American writer&#59; feminist activist.</skos:DSC>
+<skos:DT>b.1934-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2007-07-11</skos:INP>
+<skos:APP>2007-07-11</skos:APP>
+<skos:UPD>2007-07-11</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Stephens%2C%20Uriah%20Smith">
+<skos:prefLabel>Stephens&#44; Uriah Smith</skos:prefLabel>
+<skos:DSC>American labor leader&#59; founder of the Knights of&#13;&#10;Labor&amp;&#35;44&#59; 1869&amp;&#35;59&#59; resigned his leadership of the&#13;&#10;Knights in 1879.</skos:DSC>
+<skos:DT>1821-1882</skos:DT>
+<skos:NV>Uriah S. Stephens</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Stevenson%2C%20Adlai">
+<skos:prefLabel>Stevenson&#44; Adlai</skos:prefLabel>
+<skos:DSC>Governor of Illinois 1949-1953&#59; Democratic&#13;&#10;presidential cnadidate 1952&amp;&#35;44&#59; 1956&amp;&#35;59&#59; United States&#13;&#10;Ambassador to the United Nations 1961-1965.</skos:DSC>
+<skos:DT>1900-1965</skos:DT>
+<skos:NV>Adlai Ewing Stevenson</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Stockdale%2C%20James">
+<skos:prefLabel>Stockdale&#44; James</skos:prefLabel>
+<skos:DSC>American navy officer&#59; vice-presidential candidate&#13;&#10;running with H. Ross Perot 1992.</skos:DSC>
+<skos:DT>b.1923 -</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Stockman%2C%20David">
+<skos:prefLabel>Stockman&#44; David</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; director of Office of&#13;&#10;Management and Budget &amp;&#35;40&#59;OMB&amp;&#35;41&#59; 1981-1985.</skos:DSC>
+<skos:DT>b. 1946-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Taft%2C%20William%20Howard">
+<skos:prefLabel>Taft&#44; William Howard</skos:prefLabel>
+<skos:DSC>27th President of the United States&#44; 1909-1913.</skos:DSC>
+<skos:DT>1857-1930</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-26</skos:INP>
+<skos:APP>2009-02-26</skos:APP>
+<skos:UPD>2009-02-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Tancredo%2C%20Tom">
+<skos:prefLabel>Tancredo&#44; Tom</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; United States Representative from Colorado&#44; 1998- .</skos:DSC>
+<skos:DT>b.1945-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-06</skos:INP>
+<skos:APP>2009-02-06</skos:APP>
+<skos:UPD>2009-02-06</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Taylor%2C%20Zachary">
+<skos:prefLabel>Taylor&#44; Zachary</skos:prefLabel>
+<skos:DSC>12th President of the United States&#44; 1849-1850.</skos:DSC>
+<skos:DT>1784-1850</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-23</skos:INP>
+<skos:APP>2009-02-23</skos:APP>
+<skos:UPD>2009-02-23</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Thatcher%2C%20Margaret">
+<skos:prefLabel>Thatcher&#44; Margaret</skos:prefLabel>
+<skos:DSC>British Conservative politician&#59; British Prime&#13;&#10;Minister 1979-1990.</skos:DSC>
+<skos:DT>b.1925-</skos:DT>
+<skos:NV>the Iron Lady</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Thomas%2C%20Clarence">
+<skos:prefLabel>Thomas&#44; Clarence</skos:prefLabel>
+<skos:DSC>United States Supreme Court Justice 1991- &#44;&#13;&#10;confirmed despite sexual harassment charges&#13;&#10;brought against him by Anita Hill.</skos:DSC>
+<skos:DT>b.1948-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Thompson%2C%20Fred">
+<skos:prefLabel>Thompson&#44; Fred</skos:prefLabel>
+<skos:DSC>US lawyer&#44; movie actor&#44; and Republican politician&#59;&#13;&#10;United States Senator from Tennessee 1994- .</skos:DSC>
+<skos:DT>b.1942-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Toure%2C%20Amadou%20Toumani">
+<skos:prefLabel>Toure&#44; Amadou Toumani</skos:prefLabel>
+<skos:DSC>President of Mali 2002- .</skos:DSC>
+<skos:DT>b.1948-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-01-09</skos:INP>
+<skos:APP>2009-01-09</skos:APP>
+<skos:UPD>2009-01-09</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Tower%2C%20John">
+<skos:prefLabel>Tower&#44; John</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; United States Senator&#13;&#10;from Texas 1961-1985&amp;&#35;59&#59; Chairman of Senate Armed&#13;&#10;Services Committee 1981-1985&amp;&#35;59&#59; Chairman of &amp;&#35;34&#59;Tower&#13;&#10;Commission&amp;&#35;34&#59; established to investigate Iran Contra&#13;&#10;scandal&amp;&#35;59&#59; died in airplane crash 1991.</skos:DSC>
+<skos:DT>1926-1991</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Tripp%2C%20Linda">
+<skos:prefLabel>Tripp&#44; Linda</skos:prefLabel>
+<skos:DSC>US public administrator&#59;  secretly recorded&#13;&#10;telephone conversations with Monica Lewinsky&#13;&#10;describing affair between Lewinsky and President&#13;&#10;Clinton&amp;&#35;59&#59; released tapes to Kenneth Starr 1998.</skos:DSC>
+<skos:DT>b.1949-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Trotsky%2C%20Leon">
+<skos:prefLabel>Trotsky&#44; Leon</skos:prefLabel>
+<skos:DSC>Russian Communist revolutionary.</skos:DSC>
+<skos:DT>1879-1940</skos:DT>
+<skos:NV>Lev &#40;or Leib&#41; Davidovich Bronstein</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Trudeau%2C%20Pierre">
+<skos:prefLabel>Trudeau&#44; Pierre</skos:prefLabel>
+<skos:DSC>Canadian lawyer and Liberal politician&#59; Prime&#13;&#10;Minister of Canada 1968-1979&amp;&#35;44&#59; 1980-1984.</skos:DSC>
+<skos:DT>1919-2000</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Truman%2C%20Harry%20S.">
+<skos:prefLabel>Truman&#44; Harry S.</skos:prefLabel>
+<skos:DSC>Vice President of the United States 1945&#59; 33rd&#13;&#10;President of the United States 1945-1953&amp;&#35;59&#59; ordered&#13;&#10;atomic bombing of Hiroshima and Nagasaki 1945&amp;&#35;59&#59;&#13;&#10;promulgated Truman Doctrine 1947&amp;&#35;59&#59; approved&#13;&#10;Marshall Plan to aid postwar Europe 1948-1952.</skos:DSC>
+<skos:DT>1884-1972</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Trump%2C%20Donald">
+<skos:prefLabel>Trump&#44; Donald</skos:prefLabel>
+<skos:DSC>American real estate developer&#59; star of reality TV series The Apprentice.</skos:DSC>
+<skos:DT>b.1946-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2012-05-31</skos:INP>
+<skos:APP>2012-05-31</skos:APP>
+<skos:UPD>2012-05-31</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Tsongas%2C%20Paul">
+<skos:prefLabel>Tsongas&#44; Paul</skos:prefLabel>
+<skos:DSC>US Democratic politician&#59; United States&#13;&#10;Representative from Massachusetts 1975-1979&amp;&#35;59&#59;&#13;&#10;United States Senator from Massachusetts&#13;&#10;1979-1985&amp;&#35;59&#59; candidate for Democratic presidential&#13;&#10;nomination 1992.</skos:DSC>
+<skos:DT>1941-1997</skos:DT>
+<skos:NV>Paul Efthemios Tsongas</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Tyler%2C%20John">
+<skos:prefLabel>Tyler&#44; John</skos:prefLabel>
+<skos:DSC>10th President of the United States&#44; 1841-1845.</skos:DSC>
+<skos:DT>1790-1862</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-26</skos:INP>
+<skos:APP>2009-02-26</skos:APP>
+<skos:UPD>2009-02-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Van%20Buren%2C%20Martin">
+<skos:prefLabel>Van Buren&#44; Martin</skos:prefLabel>
+<skos:DSC>8th President of the United States&#44; 1837-1841.</skos:DSC>
+<skos:DT>1782-1862</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-23</skos:INP>
+<skos:APP>2009-02-23</skos:APP>
+<skos:UPD>2009-02-23</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Ventura%2C%20Jesse">
+<skos:prefLabel>Ventura&#44; Jesse</skos:prefLabel>
+<skos:DSC>US professional wrestler&#44; movie actor&#44; and Reform&#13;&#10;Party politician&amp;&#35;59&#59; Governor of Minnesota 1999- .</skos:DSC>
+<skos:DT>b.1951-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#wa%20Mutharika%2C%20Bingu">
+<skos:prefLabel>wa Mutharika&#44; Bingu</skos:prefLabel>
+<skos:DSC>President of Malawi&#44; 2004-  .</skos:DSC>
+<skos:DT>b.1934-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-12-16</skos:INP>
+<skos:APP>2008-12-16</skos:APP>
+<skos:UPD>2008-12-16</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Wade%2C%20Abdoulaye">
+<skos:prefLabel>Wade&#44; Abdoulaye</skos:prefLabel>
+<skos:DSC>President of Senegal 2000- .</skos:DSC>
+<skos:DT>b.1926-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-01-19</skos:INP>
+<skos:APP>2009-01-19</skos:APP>
+<skos:UPD>2009-01-19</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Warner%2C%20Mark">
+<skos:prefLabel>Warner&#44; Mark</skos:prefLabel>
+<skos:DSC>US Democratic politician&#59; Governor of Virginia&#13;&#10;2002- .</skos:DSC>
+<skos:DT>b.1954-</skos:DT>
+<skos:NV>Mark Roy Warner.</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Warren%2C%20Earl">
+<skos:prefLabel>Warren&#44; Earl</skos:prefLabel>
+<skos:DSC>US jurist&#59; Republican candidate for vice president&#13;&#10;on Dewey ticket 1948&amp;&#35;59&#59; Chief Justice&amp;&#35;44&#59; United States&#13;&#10;Supreme Court 1953-1969.</skos:DSC>
+<skos:DT>1891-1974</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Washington%2C%20George">
+<skos:prefLabel>Washington&#44; George</skos:prefLabel>
+<skos:DSC>1st President of the United States&#44; 1789-1797.</skos:DSC>
+<skos:DT>1732-1799</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-02-23</skos:INP>
+<skos:APP>2009-02-23</skos:APP>
+<skos:UPD>2009-02-23</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Webb%2C%20Jim">
+<skos:prefLabel>Webb&#44; Jim</skos:prefLabel>
+<skos:DSC>US Democratice politician&#59; United States Senator from Virginia 2004-2012.</skos:DSC>
+<skos:DT>b.1946-</skos:DT>
+<skos:NV>James H. Webb</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-08-22</skos:INP>
+<skos:APP>2008-08-22</skos:APP>
+<skos:UPD>2012-06-04</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Weiner%2C%20Anthony">
+<skos:prefLabel>Weiner&#44; Anthony</skos:prefLabel>
+<skos:DSC>US politician&#59; Democratic Representative for New York 1999-2011&#59; resigned from Congress over his use of social media to distribute sexually suggestive pictures of himself.</skos:DSC>
+<skos:DT>b.1964-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2013-05-16</skos:INP>
+<skos:APP>2013-05-16</skos:APP>
+<skos:UPD>2013-05-16</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Whitman%2C%20Christie">
+<skos:prefLabel>Whitman&#44; Christie</skos:prefLabel>
+<skos:DSC>US Republican politician&#59; Governor of New Jersey&#13;&#10;1994-2001&amp;&#35;59&#59; U.S. Environmental Protection Agency&#13;&#10;&amp;&#35;40&#59;EPA&amp;&#35;41&#59; Administrator 2001-2003.</skos:DSC>
+<skos:DT>b.1947-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Williams%2C%20Anthony">
+<skos:prefLabel>Williams&#44; Anthony</skos:prefLabel>
+<skos:DSC>US Democratic politician&#59; mayor of Washington D.C&#13;&#10;1999- .</skos:DSC>
+<skos:DT>b.1951-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Wilson%2C%20Harold">
+<skos:prefLabel>Wilson&#44; Harold</skos:prefLabel>
+<skos:DSC>British politician&#59; leader of the Labour party&#13;&#10;1963-1976&amp;&#35;59&#59; British Prime Minister 1964-1970&amp;&#35;44&#59;&#13;&#10;1974-1976.</skos:DSC>
+<skos:DT>1916-1995</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Wilson%2C%20Joseph">
+<skos:prefLabel>Wilson&#44; Joseph</skos:prefLabel>
+<skos:DSC>US diplomat&#59; US charge d&#39;affaires in Irag 1988-1991&#59; led fact-finding mission to Niger 2002&#44; to investigate Saddam Hussein&#39;s attempt to obtain yellowcake uranium&#59; publicly disputed White House accounts of Saddam Hussein&#39;s nuclear weapons program 2003&#59; married to Valerie Plame&#44; CIA operative who was publicly identified in retaliation for Wilson&#39;s criticisms.</skos:DSC>
+<skos:DT>b.1949-</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-11-06</skos:INP>
+<skos:APP>2006-11-06</skos:APP>
+<skos:UPD>2006-11-06</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Wilson%2C%20Woodrow">
+<skos:prefLabel>Wilson&#44; Woodrow</skos:prefLabel>
+<skos:DSC>President of the United States 1913-1921.</skos:DSC>
+<skos:DT>1856-1924</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2009-01-08</skos:INP>
+<skos:APP>2009-01-08</skos:APP>
+<skos:UPD>2009-01-08</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#X%2C%20Malcolm">
+<skos:prefLabel>X&#44; Malcolm</skos:prefLabel>
+<skos:DSC>African American activist&#44; spokesperson&#44; public speaker.</skos:DSC>
+<skos:DT>1925-1965</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2008-08-22</skos:INP>
+<skos:APP>2008-08-22</skos:APP>
+<skos:UPD>2008-09-03</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Yeltsin%2C%20Boris">
+<skos:prefLabel>Yeltsin&#44; Boris</skos:prefLabel>
+<skos:DSC>Russian politician&#59; President of the Russian&#13;&#10;Federation 1991-1999.</skos:DSC>
+<skos:DT>1931-2007</skos:DT>
+<skos:NV>Boris Nikolayevich Yeltsin</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2009-09-30</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Young%2C%20Coleman">
+<skos:prefLabel>Young&#44; Coleman</skos:prefLabel>
+<skos:DSC>US labor leader and Democratic politician&#59; first&#13;&#10;African American mayor of Detoit&amp;&#35;44&#59; Michigan&#13;&#10;1974-1994.</skos:DSC>
+<skos:DT>1918-1997</skos:DT>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+<skos:Concept rdf:about="http://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/#Zedillo%2C%20Ernesto">
+<skos:prefLabel>Zedillo&#44; Ernesto</skos:prefLabel>
+<skos:DSC>President of Mexico 1994-2000.</skos:DSC>
+<skos:DT>b.1951-</skos:DT>
+<skos:NV>Ernesto Zedilla Ponce de Leon</skos:NV>
+<skos:STA>Approved</skos:STA>
+<skos:INP>2006-07-26</skos:INP>
+<skos:UPD>2006-07-26</skos:UPD>
+</skos:Concept>
+</rdf:RDF>
+

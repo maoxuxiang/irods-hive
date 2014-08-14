@@ -1,0 +1,4 @@
+java -cp ../target/jargon-hive-3store-integration-1.0-SNAPSHOT-jar-with-dependencies.jar org.irods.jargon.hive.external.indexer.HiveIndexerRunner fedZone1 1247 fedZone1 test1 test jdbc:derby:C:/temp/hivetest/derby;create=true test test http://localhost:8080/idrop-web2 C:/temp/hivetest/irodsSchema.xml C:/temp/hivetest/agrovoc.rdf
+
+
+java -cp ../target/jargon-hive-3store-integration-1.0-SNAPSHOT-jar-with-dependencies.jar org.irods.jargon.hive.external.indexer.HiveIndexerRunner centos6.irods.renci.org 1247 test1 test1 test jdbc:derby:C:/temp/hivetest/derby;create=true test test http://localhost:8080/idrop-web2 C:/temp/hivetest/irodsSchema.xml C:/temp/hivetest/agrovoc.rdf

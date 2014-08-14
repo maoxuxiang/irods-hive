@@ -1,0 +1,1 @@
+java -cp ../target/blah.jar  org.irods.jargon.hive.external.indexer.HiveIndexerRunner HOST PORT ZONE USER PASSWORD INDEXPATH INDEXUSER INDEXPASSWORD IDROPCONTEXTwithnotrailingslash IRODSRDFPATH VOCAB1 VOCAB2

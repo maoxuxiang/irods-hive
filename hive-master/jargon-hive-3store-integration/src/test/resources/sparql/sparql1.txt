@@ -1,0 +1,10 @@
+PREFIX irods:       <http://www.irods.org/ontologies/2013/2/iRODS.owl#> 
+PREFIX skos:    <http://www.w3.org/2004/02/skos/core#>
+SELECT ?x ?y ?weblink ?infoLink
+WHERE { 
+
+?x  irods:correspondingConcept ?y .
+?y skos:related <http://www.fao.org/aos/agrovoc#c_28638> .
+?x irods:hasDownloadLocation ?weblink .
+?x irods:hasWebInformationLink ?infoLink
+}
